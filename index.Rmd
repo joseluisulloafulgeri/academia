@@ -5,5 +5,8 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Preámbulo {-}
 
+Esta plataforma fue creada para servir de guía a mis estudiantes de tesis y a todxs aquellxs interesadxs en hacer investigación.
+
+¡Que disfrutes de esta plataforma! </a>
