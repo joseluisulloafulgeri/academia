@@ -9,4 +9,4 @@ site: bookdown::bookdown_site
 
 Esta plataforma fue creada para servir de guía a mis estudiantes de tesis y a todxs aquellxs interesadxs en hacer investigación.
 
-¡Que disfrutes de esta plataforma! </a>
+¡Que disfrutes de esta plataforma!
