@@ -10,26 +10,26 @@ Conmigo un aspecto esencial es la comunicación vía **email**. Casi todo lo que
 
 Algunas indicaciones:
 
-- **Acusa recibo de mis emails**. Esto es más relevante aún para los emails importantes (archivos importantes, tareas, etc.). Si conoces a alguien que acusa sistemáticamente la recepción de tus emails (como yo) sabrás rápidamente cuando ha ocurrido un error en el envío emails. Si no reciben acuse mío de algún mensaje que tu has mandado probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
+- <span style="color:red">**Acusa recibo de mis emails**.</span> Esto es más relevante aún para los emails importantes (archivos importantes, tareas, etc.). Si conoces a alguien que acusa sistemáticamente la recepción de tus emails (como yo) sabrás rápidamente cuando ha ocurrido un error en el envío emails. Si no reciben acuse mío de algún mensaje que tu has mandado probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
 
-- **El email no es mensajería instantánea**. No necesitas responder emails inmediatamente (esa es la belleza de la comunicación no instantánea). Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que mandaste puedes re-mandar el email. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo).
+- <span style="color:red">**El email no es mensajería instantánea**. </span> No necesitas responder emails inmediatamente (esa es la belleza de la comunicación no instantánea). Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que mandaste puedes re-mandar el email. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo).
 
-- **Asegurate que me lleguen tus mensajes**. Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces emails de otros servidores (como Outlook) se bloquean. Por eso, siempre pone en **copia** (en CC) mi otro email, **joulloa@utalca.cl**.
+- <span style="color:red">**Asegurate que me lleguen tus mensajes**.</span> Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces emails de otros servidores (como Outlook) se bloquean. Por eso, siempre pone en **copia** (en CC) mi otro email, **joulloa@utalca.cl**.
 
-- **Copia a tu compañerx**. En los emails siempre pon en **copia** a tu compañerx. Esto permite que tu compañerx de tesis esté siempre al día con las cosas. La excepción es si quieres hablar algo personal conmigo.
+- <span style="color:red">**Copia a tu compañerx**.</span> En los emails siempre pon en **copia** a tu compañerx. Esto permite que tu compañerx de tesis esté siempre al día con las cosas. La excepción es si quieres hablar algo personal conmigo.
 
-- **Para tu tesis inventale un nombre a tu proyecto**. Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo (cuando tenga que buscarlo). Una palabra clave facilita mucho las cosas para gestionar el email. Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el **sujeto** de cada email que me mandes podría estar escrito [Memoria Emociones & Música]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador: Memoria Emociones & Música. Sé tan creativx como quieras!
+- <span style="color:red">**Para tu tesis inventale un nombre a tu proyecto**.</span> Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo (cuando tenga que buscarlo). Una palabra clave facilita mucho las cosas para gestionar el email. Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el **sujeto** de cada email que me mandes podría estar escrito [Memoria Emociones & Música]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador: Memoria Emociones & Música. Sé tan creativx como quieras!
 
-- **Sé informativx**. En la misma línea de lo anterior. Fíjate que el **nombre del proyecto** es algo fijo. Pero, además de esto es bueno que agreguen **información útil** en el **sujeto** del email que que me diga que se que trata el email.\
+- <span style="color:red">**Sé informativx**.</span> En la misma línea de lo anterior. Fíjate que el **nombre del proyecto** es algo fijo. Pero, además de esto es bueno que agreguen **información útil** en el **sujeto** del email que que me diga que se que trata el email.\
 Por ejemplo:\
 **[Memoria Emociones & Música] Acta 18/10/2021**\
 **[Memoria Emociones & Música] Avances artículo 1**\
 **[Memoria Emociones & Música] Consulta formato de tesis**\
 Lo que escribas debe ser informativo.
 
-- **Llama por teléfono**. Para situaciones extraordinarias no dudes en llamarme por teléfono (o vía WhatsApp). Si es una urgencia real no dudes en llamar ya que trato de cerrar el WhatsApp durante ciertos periodos del día (sobretodo en la mañana) y soy menos reactivo. Mi número de telefono está en la firma de mi email.
+- <span style="color:red">**Llama por teléfono**.</span> Para situaciones extraordinarias no dudes en llamarme por teléfono (o vía WhatsApp). Si es una urgencia real no dudes en llamar ya que trato de cerrar el WhatsApp durante ciertos periodos del día (sobretodo en la mañana) y soy menos reactivo. Mi número de telefono está en la firma de mi email.
 
-- **Los archivos se envían por email**. Evita usar WhatsApp para mandar documentación o algo importante (puede pasar desapercibido o para encontrar ese material más tarde es engorroso).
+- <span style="color:red">**Los archivos se envían por email**.</span> Evita usar WhatsApp para mandar documentación o algo importante (puede pasar desapercibido o para encontrar ese material más tarde es engorroso).
 
 ## Acta
 
