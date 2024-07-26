@@ -1,16 +1,36 @@
 # Manual de tesis
 
-Este manual busca guiar a mis estudiantes de tesis para su trabajo.
+Este manual busca guiarte, como estudiante, para tu trabajo de tesis. Ten en mente que la tesis es un proceso que involucra a **unx tutorx** y a **ti, como estudiante**. Para que desarrolles bien tu tesis es necesario que crees una **relación saludable e interactiva** con tu tutorx.
 
 ## Comunicación
 
-No pretendo que sepas varias cosas que deberías saber cuando llegas a la tesis, pero pretendo que te comuniques de forma muy fluida conmigo. Esto es esencial. Sin comunicación no va a haber trabajo de tesis. Un aspecto esencial de la comunicación conmigo es el *email*. Casi todo lo que hago esta orquestado por mi email. Si no tienes mucha práctica o quieres saber como usar mejor el email pregúntame.
+No pretendo que sepas varias cosas que deberías saber cuando llegas a la tesis (cosas que deberías haber aprendido durante el desarrollo de tu carrera), pero pretendo que te **comuniques** de forma muy fluida conmigo. Esto es **esencial**. Sin comunicación el trabajo de tesis va a ser muy complicado.
+
+Conmigo un aspecto esencial es la comunicación vía **email**. Casi todo lo que hago esta orquestado por mi email. Si no tienes mucha práctica o quieres saber como usar mejor el email, **pregúntame**.
 
 Algunas indicaciones:
 
-- *Acusen recibo de mis emails*. Esto es más importante todavía para los emails importantes (archivos importantes, tareas, etc,). Si conocen a alguien que acusa sistemáticamente sus emails (como yo) sabrán rápidamete cuando surga alguna dificultad en la mensajería. Si no reciben acuse mío de algún mensaje de ustedes probablemente no lo he recibido.
+- **Acusa recibo de mis emails**. Esto es más relevante aún para los emails importantes (archivos importantes, tareas, etc.). Si conoces a alguien que acusa sistemáticamente la recepción de tus emails (como yo) sabrás rápidamente cuando ha ocurrido un error en el envío emails. Si no reciben acuse mío de algún mensaje que tu has mandado probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
 
-- Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces no me llegan emails. Por eso, siempre pongan en *copia* mi otro email, **joulloa@utalca.cl**.
+- **El email no es mensajería instantánea**. No necesitas responder emails inmediatamente (esa es la belleza de la comunicación no instantánea). Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que mandaste puedes re-mandar el email. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo).
 
+- **Asegurate que me lleguen tus mensajes**. Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces emails de otros servidores (como Outlook) se bloquean. Por eso, siempre pone en **copia** (en CC) mi otro email, **joulloa@utalca.cl**.
 
-- Para tu proyecto inventate un nombre. Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo cuando tenga que buscarlo. Esto facilita mucho las cosas. Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el *sujeto* de cada email que me mandes podría estar escrito [Memoria Emociones & Música]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador Memoria Emociones & Música. Sé creativx!
+- **Copia a tu compañerx**. En los emails siempre pon en **copia** a tu compañerx. Esto permite que tu compañerx de tesis esté siempre al día con las cosas. La excepción es si quieres hablar algo personal conmigo.
+
+- **Para tu tesis inventale un nombre a tu proyecto**. Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo (cuando tenga que buscarlo). Una palabra clave facilita mucho las cosas para gestionar el email. Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el **sujeto** de cada email que me mandes podría estar escrito [Memoria Emociones & Música]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador: Memoria Emociones & Música. Sé tan creativx como quieras!
+
+- **Sé informativx**. En la misma línea de lo anterior. Fíjate que el **nombre del proyecto** es algo fijo. Pero, además de esto es bueno que agreguen **información útil** en el **sujeto** del email que que me diga que se que trata el email.\
+Por ejemplo:\
+**[Memoria Emociones & Música] Acta 18/10/2021**\
+**[Memoria Emociones & Música] Avances artículo 1**\
+**[Memoria Emociones & Música] Consulta formato de tesis**\
+Lo que escribas debe ser informativo.
+
+- **Llama por teléfono**. Para situaciones extraordinarias no dudes en llamarme por teléfono (o vía WhatsApp). Si es una urgencia real no dudes en llamar ya que trato de cerrar el WhatsApp durante ciertos periodos del día (sobretodo en la mañana) y soy menos reactivo. Mi número de telefono está en la firma de mi email.
+
+- **Los archivos se envían por email**. Evita usar WhatsApp para mandar documentación o algo importante (puede pasar desapercibido o para encontrar ese material más tarde es engorroso).
+
+## Acta
+
+El acta es **imprescindible** para hacer un seguimiento del trabajo en curso. Cada vez que tengamos una reunión lo primero que voy a hacer es ver la última acta que me mandaron. El acta nos permite saber rápidamente en qué quedamos. Es decir, que fue lo último que se hizo en la reunión anterior y cuáles son las tareas asignadas. El acta no sólo me sirve a mí, les sirve a ustedes para saber en qué deberían enfocar sus energías durante el trabajo de la semana. Ver abajo para una plantilla y un ejemplo de acta. Cuando nos juntemos vayan tomando notas y eso les sirve para hacer el acta. ME DEBEN ENVIAR EL ACTA EL MISMO DÍA QUE NOS REUNIMOS.
