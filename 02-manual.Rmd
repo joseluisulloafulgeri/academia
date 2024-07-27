@@ -71,3 +71,28 @@ Puedes usar lo siguiente como plantilla.
 **2. Tareas pendientes / Plan de trabajo para la semana:**\
 -- Describir la primera tarea pendiente.\
 -- Describir la segunda tarea pendiente.
+
+En general en las actas también se puede describir cuando será la **próxima reunión**. Ya que para el módulo de Trabajo de Memoria y Memoria vamos a tener un **horario fijo** esto no es tan importante. Pero si nos juntamos en un **horario alternativo** es buena idea recordarmelo en el acta.
+
+Dentro de las actas puedes incluir **links** (al material que vamos a tener en el Drive, ver más abajo).
+Esto es ideal porque evita que nos llenemos con documentos en los emails y con un click podemos llegar rápidamente a ellos.
+
+Para poner un link debes:
+
+- <p style="color:green">**Copiar el link de interés**.</p>
+- <p style="color:green">**Escribir la palabra donde pegarás el link (ej: aquí)**.</p>
+- <p style="color:green">**Seleccionar la palabra y aprieta Ctrl + K**.</p>
+- <p style="color:green">**Pegar el link en el cuadro de diálogo que se abre**.</p>
+
+No dudes en **repetir** esto en cada una de las actas cuantas veces sea necesario. Las palabras que tienen asociados links en general quedan coloreadas en azul.
+
+## Drive
+
+Debes crear un Drive y debes darme acceso para editar. Las carpetas que **deben** estar presentes en tu Drive son al menos las siguientes:
+
+- <p style="color:green">**Anteproyecto**.</p>
+- <p style="color:green">**Biblio (o Bibliografía)**.</p>
+- <p style="color:green">**Estudio (o Experimento)**.</p>
+- <p style="color:green">**Resumenes**.</p>
+
+Aparte de estas carpetas básicas puedes ir agregando carpetas adicionales para aspectos particulares que vayan surgiendo durante la tesis.
