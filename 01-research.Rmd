@@ -9,9 +9,13 @@ Típicamente tener un **grado** y luego un **postgrado** ayuda para acceder a al
 
 Es útil tener una buena idea del **área** en la que deseas especializarte y preferiblemente tener en mente un **par de preguntas de investigación** en particular en las que te gustaría trabajar. Busca libros y revistas en esa área y léelas para tener una idea de quién está haciendo qué y dónde. Aquí es donde lxs **tutorxs** entran en escena: los miembros de tu facultad deberían estar dispuestos a hablar con lxs estudiantes y ayudarles a que averigüen más sobre sus áreas de investigación y los programas de postgrado que existen. **Intenta involucrarte en una investigación**: pregunta a los profesores y asistentes si necesitan a alguien que trabaje en un proyecto en curso, o inicia tu propio proyecto de investigación independiente pidiéndole a un miembro de tu facultad que te oriente.
 
-`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Piensa:** ¿Hay algún tema particular que te interese investigar?</span>
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Piensa:** ¿Hay algún tema particular que te interese investigar? ¿Tienes en mente alguna pregunta de investigación?</span>
 
-`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Piensa:** ¿Tienes en mente alguna pregunta de investigación?</span>
+`r knitr::asis_output("\U0001F602")` <span style="color:green">**Ejemplo:** ¿Cómo afecta la experiencia emocional nuestra percepción del mundo? </span>
+
+`r knitr::asis_output("\U0001F634")` <span style="color:green">**Ejemplo:** ¿Qué pasa en nuestro cerebro mientras dormimos? </span>
+
+`r knitr::asis_output("\U0001F631")` <span style="color:green">**Ejemplo:** ¿Por qué nos gusta ver películas de terror y dramas? </span>
 
 **Comunícate** con miembros de tu facultad y los estudiantes que ya se han licenciado. Cuéntales sobre ti y tus intereses. **Pregúntales** en qué proyectos de investigación están trabajando. Una buena forma de hacerlo es a través de email. Un buen tutorx está dispuestx a responder este tipo de consultas (aunque si está ocupadx es posible que se demore un poco en responder). Tu mejor opción es encontrar un par de personas en la facultad con los que te **interesaría trabajar**. De esa forma, si uno no funciona o está demasiado ocupadx para aceptar a unx nuevx estudiante, tienes una alternativa. También es importante que te sientas **cómodx** en ese nicho académico. Vale la pena que hables con algunxs **estudiantes** de postgrado para averiguar qué tutorxs son buenos y qué tipo de apoyo financiero y psicológico está disponible en tu lugar de estudio.
 

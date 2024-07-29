@@ -4,3 +4,8 @@ manual-de-tesis
 comunicación
 acta
 drive
+bibliografía
+escritura
+resúmenes
+investigar
+evaluación

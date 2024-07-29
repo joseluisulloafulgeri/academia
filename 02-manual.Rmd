@@ -12,7 +12,7 @@ Algunas indicaciones:
 
 - <span style="color:red">**Acusa recibo de mis emails**.</span> Esto es más relevante aún para los emails importantes (archivos importantes, tareas, etc.). Si conoces a alguien que acusa sistemáticamente la recepción de tus emails (como yo) sabrás rápidamente cuando ha ocurrido un error en el envío emails. Si no reciben acuse mío de algún mensaje que tu has mandado probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
 
-- <span style="color:red">**El email no es mensajería instantánea**. </span> No necesitas responder emails inmediatamente (esa es la belleza de la comunicación no instantánea). Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que mandaste puedes re-mandar el email. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo).
+- <span style="color:red">**El email no es mensajería instantánea**. </span> Es decir, no puedes pretender que te responda automáticamente cuando me mandas un email. Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que mandaste puedes re-mandar el email. No tiene nada de malo que me recuerdes que te responda un email, al contrario, me ayuda. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo). Ojo que esto también se aplica a ti. No necesitas responder mis emails inmediatamente. Entiendo perfectamente que tengas otras actividades. De cualquier manera, trata de responder tus emails en un tiempo razonable.
 
 - <span style="color:red">**Asegurate que me lleguen tus mensajes**.</span> Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces emails de otros servidores (como Outlook) se bloquean. Por eso, siempre pone en **copia** (en CC) mi otro email, **joulloa@utalca.cl**.
 
@@ -39,8 +39,8 @@ Cada vez que tengamos una reunión lo primero que hago es revisar la última act
 
 En el acta debe estar presente:
 
-- <p style="color:green">**Qué se hizo en la última reunión**.</p>
-- <p style="color:green">**Cuáles eras las tareas a trabajar**.</p>
+- <p style="color:blue">**Qué se hizo en la última reunión**.</p>
+- <p style="color:blue">**Cuáles eras las tareas a trabajar**.</p>
 
 El acta no sólo me sirve a mí. Te sirve a ti para saber en qué deberías enfocar tus energías durante el trabajo de la semana. Cuando nos juntemos en reuniones es imperativo que tomes notas. Eso te sirve para hacer el acta.
 
@@ -90,9 +90,71 @@ No dudes en **repetir** esto en cada una de las actas cuantas veces sea necesari
 
 Debes crear un Drive y debes darme acceso para editar. Las carpetas que **deben** estar presentes en tu Drive son al menos las siguientes:
 
-- <p style="color:green">**Anteproyecto**.</p>
-- <p style="color:green">**Biblio (o Bibliografía)**.</p>
-- <p style="color:green">**Estudio (o Experimento)**.</p>
-- <p style="color:green">**Resumenes**.</p>
+- <p style="color:blue">**Anteproyecto**.</p>
+- <p style="color:blue">**Biblio (o Bibliografía)**.</p>
+- <p style="color:blue">**Estudio (o Experimento)**.</p>
+- <p style="color:blue">**Resumenes**.</p>
 
 Aparte de estas carpetas básicas puedes ir agregando carpetas adicionales para aspectos particulares que vayan surgiendo durante la tesis.
+
+## Bibliografía
+
+En la carpeta Biblio deben estar los artículos que van a incluir en su estudio.
+
+Para nombrar los archivos deben seguir las siguientes indicaciones:
+
+- <span style="color:red">**Lo minimo:**</span> Para nombrar los artículos lo mínimo es el año y el primer autor (ej: Fisher_2021 o 2021_Fisher). La ventaja de anotar primero el año es que los archivos se ordenan automáticamente de forma cronológica.
+- <span style="color:red">**Palabras clave:**</span> Deben poner por lo menos un par de palabras clave (ej: 2021_Fisher_2021_decision_emotion_EEG).
+
+## Escritura
+
+Durante el módulo de Trabajo de Memoria y Memoria **la escritura será algo primordial**. Pongan atención a que el trabajo escrito toma una buena cantidad de **tiempo**. Esto significa que hay varias iteraciones dónde ustedes escriben y yo les voy haciendo sugerencias.
+
+Escribir es un proceso complejo dónde uno necesita organizar y estructurar ideas. Lamentablemente no es algo que se enseñe en ninguna parte. 
+
+En general el trabajo de escritura se hará vía documentos Word de Google (Google Doc). El trabajo de escritura se va a realizar de la siguiente manera: 
+
+- Cada documento que tu crees debe llevar un **nombre**. Por ejemplo, **anteproyecto_v1**.
+- Una vez que trabajes en el documento me avisas por correo para que yo haga una revisión.
+- Voy a hacer comentarios en forma de "sugerencias". Es decir, son cambios que tu puedes o no aceptar. Si tienes dudas sobre los cambios lo podemos discutir (puedes mandarme un correo para hacerme la consulta o lo podemos conversar en una reunión). Una vez que termine de revisar y hacer mis comentarios te avisaré  (vía email).
+- Antes de hacer nada debes crear una **copia** de este documento. Mira este <a href="https://www.youtube.com/watch?v=I9QD49xBPS0" target="_blank">video</a>. Si la versión que yo trabajé es la v1, entonces debes crear la v2 (y así sucesivamente). El nombre del archivo quedará como **anteproyecto_v2**.
+- Una vez que termines de trabajar en el documento debes avisarme (vía email) para que yo lo revisé. Y así sucesivamente.
+
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**¿Por qué es importante que haya distintas versiones?:** Por que de esa forma puedes ir fijándote qué cosas comúnenmente deben ser corregidas. Además, pueden haber cosas que en el momento actual no te sirven, pero que se podrían usar en el futuro.</span>
+
+Es importante que para todos los archivos que trabajes le pongan **nombres informativos**. Y si hay varias iteraciones entonces debes ponerle un **número de versión**. Evita los **acentos** en los nombres de los archivos y los documentos (a los computadores no les gusta). Por último, puedes agregar o no un guión bajo (_). Esto ayuda a que un nombre sea mas leíble. Es más fácil leer anteproyecto_v1 que anteproyectov1.
+
+## Resúmenes
+
+Para trabajar en investigación tienes que leer mucho. **Pero no te confíes de tu memoria**. Tienes que ser estratégicx y escribir acerca de lo que leas. Por ello debes buscar una manera de hacer **resúmenes** que sean **útiles**. Un buen resumen **no en una copia de todos los detalles de un artículo**. Un resumen toma lo **esencial** de un artículo. Y la **extensión** que le des a un resúmen depende de un **objetivo** que debes definir de antemano.
+
+Existen varios **tipos** de resúmenes dependiendo del objetivo específico que buscas al escribirlos. La información que se incluye y la extensión del resumen varían según el propósito. Algunos ejemplos de tipos de resúmenes son:
+
+- <span style="color:red">**Resumen básico:**</span> En este resumen haces una descripción general del contenido del artículo, incluyendo los objetivos, metodología y resultados principales.
+
+- <span style="color:red">**Resumen metodológico:**</span> Además de lo anterior, detallas los métodos. Si el estudio presentado en el artículo es parecido o se relaciona en algo con tu proyecto te permite comprender como se podrían hacer algunos análisis.
+
+- <span style="color:red">**Resumen con enfoque teórico:**</span> Es un resumen que puede usarse para ir hilando la descripción de tu marco téorico. No requiere que des muchos detalles. En general, apunta a algo bien específico. Incluye un análisis y evaluación del artículo, considerando sus fortalezas, limitaciones y contribución al campo de estudio. Requiere un pensamiento profundo. Pero, es más breve que los otros resúmenes.
+
+La **extensión** del resumen depende de un objetivo particular.
+Imagina que estoy escribiendo el marco teórico sobre los efectos de las condiciones sociales de las personas en ciertas funciones cognitivas. Sucede que leí un paper ("Socioeconomic status and self–other processing: socioeconomic status predicts interference in the automatic imitation task" de Farwaha & Obhi 2020, míralo <a href="https://pubmed.ncbi.nlm.nih.gov/32130430/" target="_blank">acá</a>) que reporta que el estatus socioeconómico podría hacer que las personas perciban las acciones de los demás de distintas forma. Un resumen muy breve de alrededor de 20 palabras captura la idea teórica central que quiero transmitir:
+
+- *Personas con alto estatus socioeconómico son menos susceptibles a las acciones de otros que las personas con bajo estatus socioeconómico.*
+
+Dependiendo de lo que quiera transmitir basta con eso. Por otro lado, si quiero enfatizar este estudio por alguna razón (por ejemplo podría utilizar la misma metodología para medir la respuesta a las acciones de otros) podría hacer un resumen más extenso de 100-200 palabras que permite incluir detalles adicionales importantes, como la metodología y los resultados específicos. 
+
+- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el desempeño de personas con alto y bajo estatus socioeconómico. En la tarea de imitación automática los participantes deben responder a números presentados en la pantalla de un computador. Al mismo que responden al número observan incidentalmente el movimiento congruente o incongruente de una mano. La diferencia en los tiempos de reacción (o errores) entre respuestas congruentes e incongruentes (efecto de congruencia) es un índice de procesamiento yo/otro e indica la capacidad para inhibir una respuesta de imitación. Así, un valor más bajo en el efecto de congruencia indica que las acciones de un participante son menos afectadas por las acciones que observa. En este estudio se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
+
+La cantidad de detalle dependerá de si cierta información ya se ha mencionado previamente en el documento. Fíjate que en el resumen previo trato de explicar en detalle el paradigma experimental. Si quiero usar el resumen para agregarlo en un documento dónde **ya explique** este paradigma en alguna parte del documento, entonces este resumen podría ser mas corto (~ 100 palabras):
+
+- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el efecto de congruencia entre personas con alto y bajo estatus socioeconómico. Se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia, es decir, fueron menos afectadas por las acciones que observaron en el computador. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
+
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">Recuerda, al escribir el resumen de un artículo de investigación es fundamental considerar el propósito de ese resumen para determinar qué tipo de resumen es más apropiado y cuánto detalle incluir. El objetivo es capturar la esencia del estudio de manera concisa y efectiva.</span>
+
+## Investigar
+
+La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles. 
+
+Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir una masa de información amorfa (datos), a través de un análisis de datos en algo que tenga mas sentido. Y luego interpreta esos resultados. Es decir, el objetivo final de la investigación científica es convertir los datos en información que nos sirva para **entender** algún fenómeno. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Esta información nos puede servir para entender cómo funciona algo (conocimiento) y para aplicarlo en cosas importantes de nuestra vida.
+
+Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**.
