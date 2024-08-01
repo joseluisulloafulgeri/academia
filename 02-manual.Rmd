@@ -86,6 +86,14 @@ Para poner un link debes:
 
 No dudes en **repetir** esto en cada una de las actas cuantas veces sea necesario. Las palabras que tienen asociados links en general quedan coloreadas en azul.
 
+## Investigar
+
+La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles. 
+
+Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir - a través de un análisis de datos - una masa amorfa de información (datos crudos) en algo que tenga **sentido**. Esto significa describir e interpretar esos resultados. Es decir, el objetivo final de una investigación científica es convertir los **datos** que recolectamos en información que nos sirva para **comprender** algún fenómeno. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Esta información nos puede servir para entender cómo funciona algo (conocimiento) y para aplicarlo en cosas importantes de nuestra vida.
+
+Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**.
+
 ## Drive
 
 Debes crear un Drive y debes darme acceso para editar. Las carpetas que **deben** estar presentes en tu Drive son al menos las siguientes:
@@ -151,10 +159,8 @@ La cantidad de detalle dependerá de si cierta información ya se ha mencionado 
 
 `r knitr::asis_output("\U0001F4A1")` <span style="color:green">Recuerda, al escribir el resumen de un artículo de investigación es fundamental considerar el propósito de ese resumen para determinar qué tipo de resumen es más apropiado y cuánto detalle incluir. El objetivo es capturar la esencia del estudio de manera concisa y efectiva.</span>
 
-## Investigar
+## Gestor de referencias
 
-La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles. 
+Típicamente en la tesis (y en los artículos de investigación) se deben **citar** y **referenciar** al final de un manuscrito las fuentes desde donde sacamos información (comúnmente otro artículos científicos, pero se pueden incluir libros y páginas web). La idea es que cuando cites y hagas tu sección de referencias en un manuscrito lo hagas de forma **automática**. No te aprendas de memoria como citar en formato APA. No sirve de nada!. Es una perdida de espacio en tu cabeza. El trabajo de gestión de las referencias la debe hacer una máquina, no tú. Tu estudias para pensar y discutir sobre un tema.
 
-Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir una masa de información amorfa (datos), a través de un análisis de datos en algo que tenga mas sentido. Y luego interpreta esos resultados. Es decir, el objetivo final de la investigación científica es convertir los datos en información que nos sirva para **entender** algún fenómeno. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Esta información nos puede servir para entender cómo funciona algo (conocimiento) y para aplicarlo en cosas importantes de nuestra vida.
-
-Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**.
+Revisa el siguiente video (<a href="https://www.youtube.com/watch?v=cOweYm7oaZI" target="_blank">aquí</a>) y aprende como usar Zotero. Es bueno, bonito y gratis. Si tienes dudas, **pregúntame**.

@@ -3,9 +3,10 @@ quieres-investigar
 manual-de-tesis
 comunicación
 acta
+investigar
 drive
 bibliografía
 escritura
 resúmenes
-investigar
+gestor-de-referencias
 evaluación
