@@ -4,32 +4,32 @@ Este manual busca guiarte, como estudiante, para tu trabajo de tesis. Ten en men
 
 ## Comunicación
 
-No pretendo que sepas varias cosas que deberías saber cuando llegas a la tesis (cosas que deberías haber aprendido durante el desarrollo de tu carrera), pero pretendo que te **comuniques** de forma muy fluida conmigo. Esto es **esencial**. Sin comunicación el trabajo de tesis va a ser muy complicado.
+No pretendo que sepas varias cosas que deberías saber cuando llegas a la tesis (cosas que deberías haber aprendido durante el desarrollo de tu carrera), pero pretendo que te **comuniques** de forma **muy fluida** conmigo. Esto es **esencial**. Sin comunicación el trabajo de tesis va a ser muy complicado.
 
-Conmigo un aspecto esencial es la comunicación vía **email**. Casi todo lo que hago esta orquestado por mi email. Si no tienes mucha práctica o quieres saber como usar mejor el email, **pregúntame**.
+Conmigo un aspecto esencial es la comunicación vía **email**. Casi todo lo que hago esta organizado de alguna manera por mi email. Si no tienes mucha práctica o quieres saber como usar mejor el email, **pregúntame**.
 
-Algunas indicaciones:
+Algunas indicaciones sobre esto:
 
-- <span style="color:red">**Acusa recibo de mis emails**.</span> Esto es más relevante aún para los emails importantes (archivos importantes, tareas, etc.). Si conoces a alguien que acusa sistemáticamente la recepción de tus emails (como yo) sabrás rápidamente cuando ha ocurrido un error en el envío emails. Si no reciben acuse mío de algún mensaje que tu has mandado probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
+- <span style="color:red">**Acusa recibo de mis emails**.</span> Es una buena práctica. Y es aún más relevante para los emails importantes (archivos, tareas, etc.). Si conoces a alguien que acusa sistemáticamente la recepción de sus emails (como yo) sabrás rápidamente cuando ha ocurrido un error en el envío de algun email. Si no recibes acuse mío de tu email probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
 
-- <span style="color:red">**El email no es mensajería instantánea**. </span> Es decir, no puedes pretender que te responda automáticamente cuando me mandas un email. Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que mandaste puedes re-mandar el email. No tiene nada de malo que me recuerdes que te responda un email, al contrario, me ayuda. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo). Ojo que esto también se aplica a ti. No necesitas responder mis emails inmediatamente. Entiendo perfectamente que tengas otras actividades. De cualquier manera, trata de responder tus emails en un tiempo razonable.
+- <span style="color:red">**El email no es mensajería instantánea**. </span> Es decir, no esperes que te responda automáticamente cuando me mandas un email. Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que me mandaste puedes re-mandar el email. No tiene nada de malo que me recuerdes. Al contrario, me ayuda. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo). Ojo que esto también se aplica a ti. No necesitas responder mis emails inmediatamente. Entiendo perfectamente que tengas otras actividades. De cualquier manera, trata de responder tus emails en un tiempo razonable.
 
 - <span style="color:red">**Asegurate que me lleguen tus mensajes**.</span> Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces emails de otros servidores (como Outlook) se bloquean. Por eso, siempre pone en **copia** (en CC) mi otro email, **joulloa@utalca.cl**.
 
 - <span style="color:red">**Copia a tu compañerx**.</span> En los emails siempre pon en **copia** a tu compañerx. Esto permite que tu compañerx de tesis esté siempre al día con las cosas. La excepción es si quieres hablar algo personal conmigo.
 
-- <span style="color:red">**Para tu tesis inventale un nombre a tu proyecto**.</span> Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo (cuando tenga que buscarlo). Una palabra clave facilita mucho las cosas para gestionar el email. Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el **sujeto** de cada email que me mandes podría estar escrito [Memoria Emociones & Música]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador: Memoria Emociones & Música. Sé tan creativx como quieras!
+- <span style="color:red">**Para tu tesis inventale un nombre a tu proyecto**.</span> Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo (cuando tenga que buscarlo). Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el **sujeto** de cada email que me mandes podría estar escrito [Memoria Emociones & Música]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador: Memoria Emociones & Música. Sé tan creativx como quieras!
 
-- <span style="color:red">**Sé informativx**.</span> En la misma línea de lo anterior. Fíjate que el **nombre del proyecto** es algo fijo. Pero, además de esto es bueno que agreguen **información útil** en el **sujeto** del email que que me diga que se que trata el email.\
+- <span style="color:red">**Sé informativx**.</span> En la misma línea de lo anterior. Fíjate que el **nombre del proyecto** es algo fijo. Pero, además de esto es bueno que agreguen **información útil** en el **sujeto** del email que me permita ver de manera rápida y eficiente de que se trata tu mensaje.\
 Por ejemplo:\
 **[Memoria Emociones & Música] Acta 18/10/2021**\
 **[Memoria Emociones & Música] Avances artículo 1**\
 **[Memoria Emociones & Música] Consulta formato de tesis**\
 Lo que escribas debe ser informativo.
 
-- <span style="color:red">**Llama por teléfono**.</span> Para situaciones extraordinarias no dudes en llamarme por teléfono (o vía WhatsApp). Si es una urgencia real no dudes en llamar ya que trato de cerrar el WhatsApp durante ciertos periodos del día (sobretodo en la mañana) y soy menos reactivo. Mi número de telefono está en la firma de mi email.
+- <span style="color:red">**Llama por teléfono**.</span> Para situaciones extraordinarias no dudes en llamarme por teléfono (o vía WhatsApp). Si es una urgencia real no dudes en llamar ya que trato de cerrar el WhatsApp durante ciertos periodos del día (sobretodo en la mañana) y soy menos reactivo a mensajes de WhatsApp. Mi número de teléfono está en la firma de mi email.
 
-- <span style="color:red">**Los archivos se envían por email**.</span> Evita usar WhatsApp para mandar documentación o algo importante (puede pasar desapercibido o para encontrar ese material más tarde es engorroso).
+- <span style="color:red">**Los archivos se envían por email**.</span> Evita usar WhatsApp para mandar documentación o algo importante (puede pasar desapercibido o para encontrar ese material más tarde es super engorroso).
 
 ## Acta
 
@@ -40,22 +40,24 @@ Cada vez que tengamos una reunión lo primero que hago es revisar la última act
 En el acta debe estar presente:
 
 - <p style="color:blue">**Qué se hizo en la última reunión**.</p>
-- <p style="color:blue">**Cuáles eras las tareas a trabajar**.</p>
+- <p style="color:blue">**Cuáles eran las tareas a trabajar**.</p>
 
 El acta no sólo me sirve a mí. Te sirve a ti para saber en qué deberías enfocar tus energías durante el trabajo de la semana. Cuando nos juntemos en reuniones es imperativo que tomes notas. Eso te sirve para hacer el acta.
 
-Los aspectos importantes de una acta son:
+Los 2 aspectos importantes de una acta son:
 
-- <span style="color:red">**Puntos discutidos en la reunión**.</span> Enumera y describe brevemente cada tema o asunto que se discutió durante la reunión (avances, tareas completadas, tareas incompletas, problemas, etc). Si se nos ocurre alguna idea o si hay algo que incorporar en el estudio, **este es el lugar para anotar eso**.
+- <span style="color:red">**Puntos discutidos en la reunión**.</span> Enumera y describe brevemente cada tema o asunto que se discutió durante la reunión (avances, tareas completadas, tareas incompletas, problemas, etc). Si se nos ocurre alguna idea, algún detalle del estudio o si hay algo que incorporar, **este es el lugar para anotar eso**.
 
 - <span style="color:red">**Tareas pendientes / Plan de trabajo para la semana**.</span> Enumera y describe **acciones específicas** que debes realizar antes de la próxima reunión para poder avanzar en el desarrollo de tu tesis. Indica claramente quién es el responsable de cada tarea y la fecha límite para su finalización. Si hay algo que yo deba hacer (enviarte un archivo, programar algo, etc), **recuérdamelo** en el acta. Usa el siguiente formato: [Responsable] [Fecha límite].
 
+Además:
+
 - <span style="color:red">**El acta debe enviarse el mismo día de la reunión**.</span> Si se envia mas tarde las cosas se olvidan. Además, permite que se puedan echar a andar acciones en un plazo razonable.
 
-Revisa abajo un ejemplo de acta.
+Revisa abajo un **ejemplo** de acta.
 
 **1. Puntos discutidos en la reunión:**\
-Se comenta el paper de Truman et al. 2012. En este paper se describe un método para hacer análisis de los RT.Se tomaron notas que se encuentran aquí: [LINK al Drive]
+Se comenta el paper de Truman et al. 2012. En este paper se describe un método para hacer un análisis de los tiempos de reacción. Se tomaron notas que se encuentran aquí: [LINK al Drive]
 
 **2. Tareas pendientes / Plan de trabajo para la semana**\
 -- Leer el paper de Zibra et al. 2013 [Matías] [Lunes 03/05]\
@@ -72,10 +74,10 @@ Puedes usar lo siguiente como plantilla.
 -- Describir la primera tarea pendiente.\
 -- Describir la segunda tarea pendiente.
 
-En general en las actas también se puede describir cuando será la **próxima reunión**. Ya que para el módulo de Trabajo de Memoria y Memoria vamos a tener un **horario fijo** esto no es tan importante. Pero si nos juntamos en un **horario alternativo** es buena idea recordarmelo en el acta.
+En general en un acta también se puede describir cuando será la **próxima reunión**. Ya que para el módulo de Trabajo de Memoria y Memoria vamos a tener un **horario fijo** esto no es tan importante. Pero si nos juntamos en un **horario alternativo** es buena idea recordarmelo en el acta.
 
 Dentro de las actas puedes incluir **links** (al material que vamos a tener en el Drive, ver más abajo).
-Esto es ideal porque evita que nos llenemos con documentos en los emails y con un click podemos llegar rápidamente a ellos.
+Esto es ideal porque evita que nos llenemos con documentos en los emails y cuando tengamos que ir a mirar el material con un click podemos llegar rápidamente a ellos.
 
 Para poner un link debes:
 
@@ -84,22 +86,22 @@ Para poner un link debes:
 - <p style="color:green">**Seleccionar la palabra y aprieta Ctrl + K**.</p>
 - <p style="color:green">**Pegar el link en el cuadro de diálogo que se abre**.</p>
 
-No dudes en **repetir** esto en cada una de las actas cuantas veces sea necesario. Las palabras que tienen asociados links en general quedan coloreadas en azul.
+No dudes en **repetir** esto en cada una de las actas cuantas veces sea necesario (por ejemplo, si haces referencia al mismo material o la misma carpeta). Las palabras que tienen asociados links en general quedan coloreadas en azul.
 
 ## Investigar
 
 La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles. 
 
-Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir - a través de un análisis de datos - una masa amorfa de información (datos crudos) en algo que tenga **sentido**. Esto significa describir e interpretar esos resultados. Es decir, el objetivo final de una investigación científica es convertir los **datos** que recolectamos en información que nos sirva para **comprender** algún fenómeno. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Esta información nos puede servir para entender cómo funciona algo (conocimiento) y para aplicarlo en cosas importantes de nuestra vida.
+Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir - a través de un análisis de datos - una masa amorfa de información (datos crudos) en algo que tenga **sentido**. Esto significa describir e interpretar esos resultados. Es decir, el objetivo final de una investigación científica es convertir los **datos** que recolectamos en información que nos sirva para **comprender** algo que pasa en el mundo y que nos interesa entender. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Para que nos sirve el conocimiento? Nos puede servir para entender cómo funciona algo (ej: un mecanismo) y para aplicarlo en cosas importantes de nuestra vida (ej: una terapia).
 
-Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**.
+Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**. Además, será muy útil cuando tengas que hacer la presentación de tu tesis.
 
 ## Drive
 
 Debes crear un Drive y debes darme acceso para editar. Las carpetas que **deben** estar presentes en tu Drive son al menos las siguientes:
 
 - <p style="color:blue">**Anteproyecto**.</p>
-- <p style="color:blue">**Biblio (o Bibliografía)**.</p>
+- <p style="color:blue">**Biblio (o Bibliografia)**.</p>
 - <p style="color:blue">**Estudio (o Experimento)**.</p>
 - <p style="color:blue">**Resumenes**.</p>
 
@@ -107,34 +109,34 @@ Aparte de estas carpetas básicas puedes ir agregando carpetas adicionales para 
 
 ## Bibliografía
 
-En la carpeta Biblio deben estar los artículos que van a incluir en su estudio.
+En la carpeta Biblio deben estar los artículos que vas a incluir en tu estudio.
 
-Para nombrar los archivos deben seguir las siguientes indicaciones:
+Para nombrar los archivos debes seguir las siguientes indicaciones:
 
-- <span style="color:red">**Lo minimo:**</span> Para nombrar los artículos lo mínimo es el año y el primer autor (ej: Fisher_2021 o 2021_Fisher). La ventaja de anotar primero el año es que los archivos se ordenan automáticamente de forma cronológica.
-- <span style="color:red">**Palabras clave:**</span> Deben poner por lo menos un par de palabras clave (ej: 2021_Fisher_2021_decision_emotion_EEG).
+- <span style="color:red">**Lo mínimo:**</span> Para nombrar los artículos lo mínimo es el año y el primer autor (ej: Fisher_2021 o 2021_Fisher). La ventaja de anotar primero el año es que los archivos se ordenan automáticamente de forma cronológica.
+- <span style="color:red">**Palabras clave:**</span> Debes poner por lo menos un par de palabras clave (ej: 2021_Fisher_2021_decision_emotion_EEG).
 
 ## Escritura
 
-Durante el módulo de Trabajo de Memoria y Memoria **la escritura será algo primordial**. Pongan atención a que el trabajo escrito toma una buena cantidad de **tiempo**. Esto significa que hay varias iteraciones dónde ustedes escriben y yo les voy haciendo sugerencias.
+Durante el módulo de Trabajo de Memoria y Memoria **la escritura será algo primordial**. Ojo, el trabajo escrito toma una buena cantidad de **tiempo**. Por qué? Porque hay varias iteraciones dónde escribes, te hago sugerencias, realizas cambias, me lo mandas de vuelta, te hago nuevas sugerencias, y así sucesivamente.
 
-Escribir es un proceso complejo dónde uno necesita organizar y estructurar ideas. Lamentablemente no es algo que se enseñe en ninguna parte. 
+Escribir es un proceso complejo dónde uno necesita organizar y estructurar ideas. Siempre debes pensar en el **mensaje** que quieres transmitir. Además, - y esto es bastante difícil en general - debes **abstraerte de lo que sabes**. Debes escribir pensando en lo que **otra persona** va a leer y va a entender de lo que estás escribiendo. Una buena técnica para saber si algo está bien escrito es leerlo en voz alta. Si algo te hace ruido, revísalo. 
 
-En general el trabajo de escritura se hará vía documentos Word de Google (Google Doc). El trabajo de escritura se va a realizar de la siguiente manera: 
+En general el trabajo de escritura se hará vía documentos Word de Google (Google Doc). Y se realizará de la siguiente manera: 
 
 - Cada documento que tu crees debe llevar un **nombre**. Por ejemplo, **anteproyecto_v1**.
 - Una vez que trabajes en el documento me avisas por correo para que yo haga una revisión.
-- Voy a hacer comentarios en forma de "sugerencias". Es decir, son cambios que tu puedes o no aceptar. Si tienes dudas sobre los cambios lo podemos discutir (puedes mandarme un correo para hacerme la consulta o lo podemos conversar en una reunión). Una vez que termine de revisar y hacer mis comentarios te avisaré  (vía email).
-- Antes de hacer nada debes crear una **copia** de este documento. Mira este <a href="https://www.youtube.com/watch?v=I9QD49xBPS0" target="_blank">video</a>. Si la versión que yo trabajé es la v1, entonces debes crear la v2 (y así sucesivamente). El nombre del archivo quedará como **anteproyecto_v2**.
+- Voy a hacer comentarios en forma de "sugerencias". Es decir, son cambios que tu puedes o no aceptar. Si tienes dudas sobre los cambios lo podemos discutir (puedes mandarme un correo para hacerme la consulta o lo podemos conversar en una reunión). Una vez que yo termine de revisar y hacer mis comentarios te avisaré  (vía email).
+- Cuando vayas a ver el documento, antes de hacer nada debes crear una **copia** de este documento. Mira este <a href="https://www.youtube.com/watch?v=I9QD49xBPS0" target="_blank">video</a>. Si la versión que yo trabajé es la v1, entonces debes crear la v2 (y así sucesivamente). El nombre del archivo quedará como **anteproyecto_v2**.
 - Una vez que termines de trabajar en el documento debes avisarme (vía email) para que yo lo revisé. Y así sucesivamente.
 
-`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**¿Por qué es importante que haya distintas versiones?:** Por que de esa forma puedes ir fijándote qué cosas comúnenmente deben ser corregidas. Además, pueden haber cosas que en el momento actual no te sirven, pero que se podrían usar en el futuro.</span>
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**¿Por qué es importante que haya distintas versiones?:** Porque de esa forma puedes ir fijándote qué cosas comúnenmente deben ser corregidas. Además, pueden haber cosas que en el momento actual no te sirven, pero que se podrían usar en el futuro.</span>
 
-Es importante que para todos los archivos que trabajes le pongan **nombres informativos**. Y si hay varias iteraciones entonces debes ponerle un **número de versión**. Evita los **acentos** en los nombres de los archivos y los documentos (a los computadores no les gusta). Por último, puedes agregar o no un guión bajo (_). Esto ayuda a que un nombre sea mas leíble. Es más fácil leer anteproyecto_v1 que anteproyectov1.
+Es importante que para todos los archivos que trabajes le pongas **nombres informativos**. Y si hay varias iteraciones entonces debes ponerle un **número de versión**. Evita los **acentos** en los nombres de los archivos y los documentos (a los computadores no les gusta). Por último, puedes agregar o no un guión bajo (_). Esto ayuda a que un nombre sea mas leíble. Es más fácil leer anteproyecto_v1 que anteproyectov1.
 
 ## Resúmenes
 
-Para trabajar en investigación tienes que leer mucho. **Pero no te confíes de tu memoria**. Tienes que ser estratégicx y escribir acerca de lo que leas. Por ello debes buscar una manera de hacer **resúmenes** que sean **útiles**. Un buen resumen **no en una copia de todos los detalles de un artículo**. Un resumen toma lo **esencial** de un artículo. Y la **extensión** que le des a un resúmen depende de un **objetivo** que debes definir de antemano.
+Para trabajar en investigación tienes que leer mucho. **Pero no te confíes de tu memoria**. Tienes que ser estratégicx y escribir acerca de lo que leas. Por ello debes buscar una manera de hacer **resúmenes** que sean **útiles**. Un buen resumen **no es una copia de todos los detalles de un artículo**. Un resumen toma lo **esencial** de un artículo. Y la **extensión** que le des a un resúmen depende de un **objetivo** que debes definir de antemano.
 
 Existen varios **tipos** de resúmenes dependiendo del objetivo específico que buscas al escribirlos. La información que se incluye y la extensión del resumen varían según el propósito. Algunos ejemplos de tipos de resúmenes son:
 
@@ -145,13 +147,13 @@ Existen varios **tipos** de resúmenes dependiendo del objetivo específico que 
 - <span style="color:red">**Resumen con enfoque teórico:**</span> Es un resumen que puede usarse para ir hilando la descripción de tu marco téorico. No requiere que des muchos detalles. En general, apunta a algo bien específico. Incluye un análisis y evaluación del artículo, considerando sus fortalezas, limitaciones y contribución al campo de estudio. Requiere un pensamiento profundo. Pero, es más breve que los otros resúmenes.
 
 La **extensión** del resumen depende de un objetivo particular.
-Imagina que estoy escribiendo el marco teórico sobre los efectos de las condiciones sociales de las personas en ciertas funciones cognitivas. Sucede que leí un paper ("Socioeconomic status and self–other processing: socioeconomic status predicts interference in the automatic imitation task" de Farwaha & Obhi 2020, míralo <a href="https://pubmed.ncbi.nlm.nih.gov/32130430/" target="_blank">acá</a>) que reporta que el estatus socioeconómico podría hacer que las personas perciban las acciones de los demás de distintas forma. Un resumen muy breve de alrededor de 20 palabras captura la idea teórica central que quiero transmitir:
+Imagina que estoy escribiendo el marco teórico sobre los efectos de las condiciones sociales de las personas en ciertas funciones cognitivas. Leí un paper ("Socioeconomic status and self–other processing: socioeconomic status predicts interference in the automatic imitation task" de Farwaha & Obhi 2020, míralo <a href="https://pubmed.ncbi.nlm.nih.gov/32130430/" target="_blank">acá</a>) que reporta que el estatus socioeconómico podría hacer que las personas perciban las acciones de los demás de distintas forma. Un resumen muy breve de alrededor de 20 palabras captura la idea teórica central que quiero transmitir:
 
 - *Personas con alto estatus socioeconómico son menos susceptibles a las acciones de otros que las personas con bajo estatus socioeconómico.*
 
-Dependiendo de lo que quiera transmitir basta con eso. Por otro lado, si quiero enfatizar este estudio por alguna razón (por ejemplo podría utilizar la misma metodología para medir la respuesta a las acciones de otros) podría hacer un resumen más extenso de 100-200 palabras que permite incluir detalles adicionales importantes, como la metodología y los resultados específicos. 
+Dependiendo de lo que quiera transmitir basta con eso. Por otro lado, si quiero enfatizar este estudio por alguna razón (por ejemplo podría utilizar la misma metodología para medir la respuesta a las acciones de otros) podría hacer un resumen más extenso de 100-200 palabras que permite incluir detalles adicionales importantes, como la metodología y los análisis específicos. 
 
-- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el desempeño de personas con alto y bajo estatus socioeconómico. En la tarea de imitación automática los participantes deben responder a números presentados en la pantalla de un computador. Al mismo que responden al número observan incidentalmente el movimiento congruente o incongruente de una mano. La diferencia en los tiempos de reacción (o errores) entre respuestas congruentes e incongruentes (efecto de congruencia) es un índice de procesamiento yo/otro e indica la capacidad para inhibir una respuesta de imitación. Así, un valor más bajo en el efecto de congruencia indica que las acciones de un participante son menos afectadas por las acciones que observa. En este estudio se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
+- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el desempeño de personas con alto y bajo estatus socioeconómico. En la tarea de imitación automática los participantes deben responder a números presentados en la pantalla de un computador. Al mismo tiempo que responden al número observan incidentalmente el movimiento congruente o incongruente de una mano. La diferencia en los tiempos de reacción (o errores) entre respuestas congruentes e incongruentes (efecto de congruencia) es un índice de procesamiento yo/otro e indica la capacidad para inhibir una respuesta de imitación. Así, un valor más bajo en el efecto de congruencia indica que las acciones de un participante son menos afectadas por las acciones que uno observa. En este estudio se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
 
 La cantidad de detalle dependerá de si cierta información ya se ha mencionado previamente en el documento. Fíjate que en el resumen previo trato de explicar en detalle el paradigma experimental. Si quiero usar el resumen para agregarlo en un documento dónde **ya explique** este paradigma en alguna parte del documento, entonces este resumen podría ser mas corto (~ 100 palabras):
 
@@ -161,6 +163,6 @@ La cantidad de detalle dependerá de si cierta información ya se ha mencionado 
 
 ## Gestor de referencias
 
-Típicamente en la tesis (y en los artículos de investigación) se deben **citar** y **referenciar** al final de un manuscrito las fuentes desde donde sacamos información (comúnmente otro artículos científicos, pero se pueden incluir libros y páginas web). La idea es que cuando cites y hagas tu sección de referencias en un manuscrito lo hagas de forma **automática**. No te aprendas de memoria como citar en formato APA. No sirve de nada!. Es una perdida de espacio en tu cabeza. El trabajo de gestión de las referencias la debe hacer una máquina, no tú. Tu estudias para pensar y discutir sobre un tema.
+Típicamente en la tesis (y en los artículos de investigación) se deben **citar** y **referenciar** al final de un manuscrito las fuentes desde donde sacamos información (comúnmente otro artículos científicos, pero se pueden incluir libros y páginas web). La idea es que cuando cites y hagas tu sección de referencias en un manuscrito lo hagas de forma **automática**. No te aprendas de memoria como citar en formato APA. **No sirve de nada!**. Es una perdida de espacio en tu cabeza. El trabajo de gestión de las referencias la debe hacer una **máquina**, no tú. Tu trabajo es pensar y discutir sobre un tema.
 
 Revisa el siguiente video (<a href="https://www.youtube.com/watch?v=cOweYm7oaZI" target="_blank">aquí</a>) y aprende como usar Zotero. Es bueno, bonito y gratis. Si tienes dudas, **pregúntame**.
