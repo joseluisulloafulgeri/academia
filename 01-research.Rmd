@@ -22,3 +22,14 @@ Es útil tener una buena idea del **área** en la que deseas especializarte y pr
 Debido a que hay tantos estudiantes que solicitan admisión, a menudo se rechaza incluso a postulantes altamente calificados. **Debes postular a una variedad de programas**. No lo tomes como algo personal si algunos de ellos te rechazan. Para aumentar tus posibilidades de proseguir una carrera académica **sácate buenas notas**, especialmente en las clases relacionadas con tu área de interés, **desarrolla buenas relaciones con tus profesores y personas con las que trabajas** (esto es muy importante para obtener buenas recomendaciones), **trabaja en un proyecto de investigación** y ten una **idea clara de qué deseas investigar** (aunque siempre puedes cambiar de opinión más tarde). Además, es una buena idea comenzar a pensar temprano en las fuentes de financiamiento. Infórmate con tus profesores.
 
 `r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Recuerda:** Busca la ayuda de los docentes y estudiantes de tu comunidad.</span>
+
+## ¿Qué hacer?
+Durante tu desarrollo como académicx muchas veces es difícil saber exactamente qué se supone que debes estar haciendo. Tienes que investigar (o completar una tesis), pero **¿cómo empiezas? ¿a qué deberías dedicar tu tiempo?** 
+
+Las escuelas de grado y postgrado están en general muy desestructuradas en este ámbito. Después de terminar de realizar sus cursos para muchos hay un período que le sigue que es muy difícil y estresante. Se supone que debes encontrar un **tema** de tesis (si no eres uno o una de lxs pocxs afortunadxs que ya ha encontrado un tema). Una vez que encuentres un tema lo complicado es tener un punto de referencia para saber si avanzas bien o mal.
+
+Ser unx buenx investigadorx implica más que simplemente **generar ideas brillantes e implementarlas**. La mayoría de lox investigadorxs pasan la mayor parte de su tiempo **leyendo artículos, discutiendo ideas con colegas, escribiendo y revisando artículos, pensando** y, por supuesto, **teniendo ideas brillantes e implementándolas**. Un aspecto fundamental para ser unx investigadorx exitosx es formar parte de una **comunidad de investigadorxs**. Además, es fundamental realizar un **seguimiento de tu investigación** (**dónde has estado y hacia dónde te diriges**), debes saber cómo **mantenerte motivado** y saber **cómo usar tu tiempo sabiamente**. Es buena idea que tengas una **rutina diaria**.
+
+Llevar un **diario de tus actividades e ideas de investigación** es muy útil. Puedes escribir **ideas especulativas, problemas interesantes, posibles soluciones, ideas aleatorias, referencias para buscar, notas sobre artículos que hayas leído, bosquejos de artículos para escribir y citas interesantes**. Léelo periódicamente. Notarás que aquellos fragmentos de pensamientos aleatorios comenzarán a juntarse y formar un patrón que a menudo se convierte en un **proyecto de investigación** o incluso en un tema de tesis.
+
+
