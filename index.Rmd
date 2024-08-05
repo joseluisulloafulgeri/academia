@@ -1,6 +1,6 @@
 --- 
 title: "Academia"
-author: "José Luis Ulloa Fulgeri"
+author: "Según José Luis Ulloa Fulgeri (joseluisulloafulgeri@gmail.com)"
 site: bookdown::bookdown_site
 ---
 
@@ -12,4 +12,4 @@ Esta plataforma fue creada para servir de guía a mis estudiantes de tesis y a t
 knitr::include_graphics('images/investigacion.jpg')
 ```
 
-¡Que disfrutes de esta plataforma!
+<p align="center">¡Que disfrutes de esta plataforma!</p>
