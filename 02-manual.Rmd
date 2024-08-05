@@ -216,3 +216,24 @@ El outline de este texto podría ser el siguiente:
 Típicamente en la tesis (y en los artículos de investigación) se deben **citar** y **referenciar** al final de un manuscrito las fuentes desde donde sacamos información (comúnmente otro artículos científicos, pero se pueden incluir libros y páginas web). La idea es que cuando cites y hagas tu sección de referencias en un manuscrito lo hagas de forma **automática**. No te aprendas de memoria como citar en formato APA. **No sirve de nada!**. Es una perdida de tiempo y es una perdida de espacio en tu cabeza. El trabajo de gestión de las referencias la debe hacer una **máquina**, no tú. Tu trabajo es pensar y desarrollar ideas.
 
 Revisa el siguiente video (<a href="https://www.youtube.com/watch?v=cOweYm7oaZI" target="_blank">aquí</a>) y aprende como usar Zotero. Es bueno, bonito y gratis. Si tienes dudas, **pregúntame**.
+
+## Uso de la IA
+Puedes usar inteligencia artificial (IA)? Claro que puedes, pero debes hacerlo con cautela y con responsabilidad. La transparencia implica que indiques claramente cómo has utilizado la IA en tu trabajo. Es fundamental utilizar la IA como un **complemento** y siempre **verificar la información** generada para asegurar su fiabilidad y veracidad. Además, debes asumir la **responsabilidad total** del contenido generado, incluso si has utilizado IA para crear parte del material. Para ello debes revisar y validar concienzudamente su contenido.
+
+Hay varias herramientas de IA que te pueden ser útiles. No voy a poner una lista pero seguramente estas al corriente de ChatGPT u otros.
+
+Para usar la IA debes hacer preguntas estratégicas. Mientras más detalles pongas en tus preguntas más detalles vas a obtener.
+Por ejemplo, para resumir un artículo antes de leerlo puedes escribir. Puedes usar el siguiente prompt:
+
+*Resume el siguiente artículo. Mi objetivo es entender los puntos principales antes de leer el texto completo.*
+
+Y pegas el texto.
+
+También puedes revisar algún texto en términos de ortografía, redacción y coherencia. Puedes usar el siguiente prompt: 
+
+*Revisa y corrige el siguiente párrafo para mejorar la gramática y el estilo: [texto].*
+
+Y pegas el texto.
+
+Atención. El hecho que te ayudes de la IA para anticipar lo que vas a leer no te exime de leer los artículos. Tienes que verlo como una ayuda. 
+

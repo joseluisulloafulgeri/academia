@@ -11,4 +11,5 @@ escritura
 resúmenes
 el-outline
 gestor-de-referencias
+uso-de-la-ia
 evaluación
