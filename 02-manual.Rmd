@@ -161,8 +161,58 @@ La cantidad de detalle dependerá de si cierta información ya se ha mencionado 
 
 `r knitr::asis_output("\U0001F4A1")` <span style="color:green">Recuerda, al escribir el resumen de un artículo de investigación es fundamental considerar el propósito de ese resumen para determinar qué tipo de resumen es más apropiado y cuánto detalle incluir. El objetivo es capturar la esencia del estudio de manera concisa y efectiva.</span>
 
+## El outline
+Un outline (o esquema) es una especie de lista de ideas, una estructura organizada que detalla los puntos principales y las ideas secundarias de un documento antes de que se escriba un texto completo. Sirve como un mapa que guía el proceso de escritura, asegurando que todas las partes necesarias del tema estén cubiertas de manera lógica y coherente. 
+
+Un outline es importante por varias razones:
+
+- Permite **organizar** las ideas de manera clara y estructurada. Esto ayuda a visualizar cómo se conectan los diferentes puntos y asegura que el argumento fluya de manera lógica. Sin un esquema, es fácil perderse en los detalles y desviarse del tema principal.
+
+- Agrega **claridad** a tu escrito. Es decir, ayuda a mantener el enfoque en los **puntos clave** que se quieren tratar, evitando la inclusión de **información irrelevante**. Esto es especialmente útil cuando se trabaja con temas complejos que pueden fácilmente salirse de control sin una guía clara.
+
+- **Facilita** el proceso de escritura al proporcionar una **hoja de ruta** que guía la creación del contenido. Con un outline, es más fácil empezar a escribir y seguir avanzando sin perder tiempo pensando qué viene después. Además, **reduce la necesidad de grandes revisiones**, ya que el texto sigue una estructura predefinida. 
+
+- Hace que sea más fácil **revisar** y **ajustar** la estructura antes de invertir mucho tiempo en la redacción completa. También es útil cuando se trabaja en equipo, ya que todos los miembros pueden estar de acuerdo en la estructura básica y el contenido antes de comenzar a escribir. Antes que vayas a los detalles de cada punto debes tener clara una idea general de lo que quieres contar. Cuando yo revise me permite ver si tu texto tiene esa coherencia. Me permite ver si estas entregando bien tu mensaje.
+
+Por ejemplo. Mira el siguiente texto sobre el rol de las emociones en la toma de decisiones.
+
+Las emociones juegan un papel crucial en la toma de decisiones, influyendo en nuestras elecciones de manera consciente e inconsciente. Las teorías tradicionales de la decisión, como la teoría de la utilidad esperada, asumían que las personas son agentes racionales que evalúan todas las opciones y eligen la que maximiza su beneficio esperado. Sin embargo, investigaciones más recientes en psicología y neurociencia han demostrado que las emociones son componentes esenciales de este proceso. Las emociones pueden actuar como señales rápidas e intuitivas que nos guían cuando enfrentamos decisiones complejas o bajo incertidumbre. Por ejemplo, el miedo puede alertarnos sobre peligros potenciales y llevarnos a optar por opciones más seguras, mientras que la alegría puede hacernos más propensos a tomar riesgos.
+
+Las emociones también pueden influir en la toma de decisiones a través del fenómeno conocido como el "sesgo afectivo". Este sesgo se refiere a la tendencia de las personas a permitir que sus estados emocionales actuales afecten sus juicios y elecciones. Por ejemplo, una persona que se siente feliz puede evaluar las opciones de manera más positiva y estar más dispuesta a asumir riesgos que alguien que se siente triste o ansioso. Este efecto puede observarse en una amplia gama de contextos, desde decisiones financieras hasta elecciones personales. Además, las emociones negativas pueden llevar a un pensamiento más analítico y cuidadoso, mientras que las emociones positivas pueden fomentar un pensamiento más creativo y expansivo.
+
+La influencia de las emociones en la toma de decisiones no se limita a las respuestas inmediatas. Las experiencias emocionales pasadas también pueden moldear nuestras preferencias y comportamientos futuros. Por ejemplo, una experiencia negativa significativa, como una pérdida financiera, puede crear una aversión duradera al riesgo. De manera similar, una experiencia positiva puede aumentar la disposición a repetir comportamientos que anteriormente resultaron en recompensas. Este aprendizaje emocional se almacena en la memoria y puede ser activado automáticamente cuando enfrentamos situaciones similares en el futuro, guiando nuestras decisiones de manera implícita.
+
+La interacción entre emociones y toma de decisiones también tiene implicaciones importantes para diversos campos, como la economía, la medicina y la política. En la economía, comprender cómo las emociones influyen en las decisiones financieras puede ayudar a diseñar mejores políticas y productos que consideren el bienestar emocional de las personas. En la medicina, los profesionales de la salud pueden utilizar el conocimiento sobre la toma de decisiones emocional para mejorar la comunicación con los pacientes y apoyarles en la toma de decisiones informadas sobre su salud. En la política, los líderes pueden utilizar las emociones para movilizar a los votantes y fomentar el apoyo a políticas específicas.
+
+Más allá del contenido fíjate que hay **ideas específicas** que se mencionan y se desarrollan en los párrafos. Esas ideas específicas constituyen el outline.
+El outline de este texto podría ser el siguiente:
+
+1. **Introducción a las emociones y toma de decisiones**
+   - Importancia de las emociones en la toma de decisiones
+   - Contraste con teorías tradicionales de decisión
+
+2. **Emociones como señales intuitivas**
+   - Ejemplos de emociones guiando decisiones
+   - Papel del miedo y la alegría en las elecciones
+
+3. **Sesgo afectivo**
+   - Definición y ejemplos del sesgo afectivo
+   - Influencia de estados emocionales en los juicios y elecciones
+   - Impacto de emociones negativas y positivas en el pensamiento
+
+4. **Experiencias emocionales pasadas**
+   - Cómo las emociones pasadas moldean las preferencias futuras
+   - Ejemplos de aversión al riesgo y disposición a repetir comportamientos
+
+5. **Implicaciones en diversos campos**
+   - Aplicaciones en economía, medicina y política
+   - Importancia de considerar las emociones en el diseño de políticas y productos
+   - Uso de las emociones en la comunicación y movilización política
+
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Antes de ponerte a escribir cualquier cosa** piensa en hacer tu **outline**. Teniendo clara tu idea general y teniendo claro como cada una de las ideas específicas que quieres transmitir se conectan, será mucho mas fácil para ti escribir después.</span>
+
 ## Gestor de referencias
 
-Típicamente en la tesis (y en los artículos de investigación) se deben **citar** y **referenciar** al final de un manuscrito las fuentes desde donde sacamos información (comúnmente otro artículos científicos, pero se pueden incluir libros y páginas web). La idea es que cuando cites y hagas tu sección de referencias en un manuscrito lo hagas de forma **automática**. No te aprendas de memoria como citar en formato APA. **No sirve de nada!**. Es una perdida de espacio en tu cabeza. El trabajo de gestión de las referencias la debe hacer una **máquina**, no tú. Tu trabajo es pensar y discutir sobre un tema.
+Típicamente en la tesis (y en los artículos de investigación) se deben **citar** y **referenciar** al final de un manuscrito las fuentes desde donde sacamos información (comúnmente otro artículos científicos, pero se pueden incluir libros y páginas web). La idea es que cuando cites y hagas tu sección de referencias en un manuscrito lo hagas de forma **automática**. No te aprendas de memoria como citar en formato APA. **No sirve de nada!**. Es una perdida de tiempo y es una perdida de espacio en tu cabeza. El trabajo de gestión de las referencias la debe hacer una **máquina**, no tú. Tu trabajo es pensar y desarrollar ideas.
 
 Revisa el siguiente video (<a href="https://www.youtube.com/watch?v=cOweYm7oaZI" target="_blank">aquí</a>) y aprende como usar Zotero. Es bueno, bonito y gratis. Si tienes dudas, **pregúntame**.
