@@ -13,3 +13,6 @@ el-outline
 gestor-de-referencias
 uso-de-la-ia
 evaluación
+qué-leer
+mantente-motivado
+mantente-motivadx

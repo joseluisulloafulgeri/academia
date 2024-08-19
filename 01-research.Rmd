@@ -28,8 +28,39 @@ Durante tu desarrollo como académicx muchas veces es difícil saber exactamente
 
 Las escuelas de grado y postgrado están en general muy desestructuradas en este ámbito. Después de terminar de realizar sus cursos para muchos hay un período que le sigue que es muy difícil y estresante. Se supone que debes encontrar un **tema** de tesis (si no eres uno o una de lxs pocxs afortunadxs que ya ha encontrado un tema). Una vez que encuentres un tema lo complicado es tener un punto de referencia para saber si avanzas bien o mal.
 
-Ser unx buenx investigadorx implica más que simplemente **generar ideas brillantes e implementarlas**. La mayoría de lox investigadorxs pasan la mayor parte de su tiempo **leyendo artículos, discutiendo ideas con colegas, escribiendo y revisando artículos, pensando** y, por supuesto, **teniendo ideas brillantes e implementándolas**. Un aspecto fundamental para ser unx investigadorx exitosx es formar parte de una **comunidad de investigadorxs**. Además, es fundamental realizar un **seguimiento de tu investigación** (**dónde has estado y hacia dónde te diriges**), debes saber cómo **mantenerte motivado** y saber **cómo usar tu tiempo sabiamente**. Es buena idea que tengas una **rutina diaria**.
+Ser unx buenx investigadorx implica más que simplemente generar ideas brillantes e implementarlas. La mayoría de lox investigadorxs pasan la mayor parte de su tiempo **leyendo artículos, discutiendo ideas con colegas, escribiendo y revisando artículos, pensando** y, por supuesto, teniendo ideas brillantes e implementándolas. Un aspecto fundamental para ser unx investigadorx exitosx es formar parte de una **comunidad de investigadorxs**. Además, es fundamental realizar un seguimiento de tu investigación (dónde has estado y hacia dónde te diriges), debes saber cómo mantenerte **motivado** y saber cómo usar tu **tiempo** sabiamente. Es buena idea que tengas una rutina diaria.
 
-Llevar un **diario de tus actividades e ideas de investigación** es muy útil. Puedes escribir **ideas especulativas, problemas interesantes, posibles soluciones, ideas aleatorias, referencias para buscar, notas sobre artículos que hayas leído, bosquejos de artículos para escribir y citas interesantes**. Léelo periódicamente. Notarás que aquellos fragmentos de pensamientos aleatorios comenzarán a juntarse y formar un patrón que a menudo se convierte en un **proyecto de investigación** o incluso en un tema de tesis.
+Llevar un **diario de tus actividades e ideas de investigación** es muy útil. Puedes escribir ideas especulativas, problemas interesantes, posibles soluciones, ideas aleatorias, referencias para buscar, notas sobre artículos que hayas leído, bosquejos de artículos para escribir y citas interesantes. Léelo periódicamente. Notarás que aquellos fragmentos de pensamientos aleatorios comenzarán a juntarse y formar un patrón que a menudo se convierte en un **proyecto de investigación** o incluso en un tema de tesis.
 
+## ¿Qué leer?
+Tendrás que leer muchos documentos técnicos para familiarizarte con algún tema y mantenerte actualizado. Es posible que pases más de la mitad de tu tiempo leyendo, especialmente al principio. Esto es normal.
 
+También es normal sentirte abrumado por la cantidad de lectura que cree que "deberías" hacer. Trata de recordar que es imposible leer todo lo que pueda ser relevante: en su lugar, **lee de forma selectiva**. Cuando empieces a leer sobre un nuevo tema, pregúntale a tu tutorx, o tus compañerxs de estudio cuáles son las revistas más útiles en su campo y pídele a tu tutorx una lista de artículos fundamentales o "clásicos" que definitivamente deberías leer. Comienza con estos artículos.
+
+Antes de molestarte en leer cualquier documento, **asegúrate que valga la pena**.
+**Escanea el título**, luego el **resumen**, luego si aún no has perdido completamente el interés, échale un vistazo a la introducción y las conclusiones. Antes de intentar obtener todos los detalles esenciales del documento, hojea todo e intenta familiarizarte con los puntos más importantes. Si todavía parece valioso y relevante, vuelve atrás y léelo todo.
+
+A muchas personas les resulta útil tomar **notas** mientras leen. Incluso si no lo vuelves a leer más tarde eso te ayudará a enfocar tu atención y te obligará a resumir mientras lees. Y si necesitas refrescar tu memoria más tarde, volver a leer tus notas es mucho más fácil y rápido que leer todo el documento.
+
+Algunos otros puntos a tener en cuenta al leer y evaluar artículos:
+
+`r knitr::asis_output("\U0001F9D0")` <span style="color:blue">Asegúrate que las ideas descritas tiene un **asidero real** en los datos (en lugar de ser solo teóricamente válidas). Es decir, que lo que los autores cuentan en las conclusiones se refleja fielmente en los resultados de sus experimentos.</span>
+
+`r knitr::asis_output("\U0001F928")` <span style="color:blue">Trata de ir más allá de palabras ostentosas: pueden sonar bien, pero no significan mucho. ¿Hay **sustancia** o alguna **idea** interesante debajo de todas esas palabras?</span>
+
+`r knitr::asis_output("\U0001F929")` <span style="color:blue">Para comprender realmente un artículo debes comprender las **motivaciones** del problema planteado, las decisiones que se tomaron para encontrar una solución, los supuestos detrás de la solución, debes razonar si los supuestos son realistas y si pueden eliminarse sin invalidar el enfoque, reflexiona sobre las futuras direcciones de investigación, piensa en lo que realmente se logró o implementó, verifica la validez (o falta de ella) de las justificaciones teóricas o demostraciones empíricas y piensa en el potencial para extender y escalar esas ideas más allá.</span>
+
+Mantén archivados los documentos que lees para que puedas encontrarlos de nuevo más tarde y configura una bibliografía en tu computador (o en línea). Es útil agregar campos adicionales como palabras clave y un breve resumen. Esta bibliografía será útil para referencia posterior, para escribir tu tesis y para compartir con otrxs estudiantes.
+
+## Mantente motivadx
+A veces, especialmente en los "años intermedios", puede resultar muy difícil mantener una actitud positiva y estar motivado. Muchos estudiantes de postgrado sufren de inseguridad, ansiedad e incluso aburrimiento.
+
+En primer lugar, ten en cuenta que estos son **sentimientos normales**. Trata de encontrar un oído comprensivo: otrx estudiante de postgrado, tu tutorx o un amigx fuera de la facultad. A continuación, intenta identificar por qué tienes problemas e identifica los pasos concretos que puedes tomar para mejorar tu situación.
+
+Para mantenerte **concentrado y motivado** a menudo es útil tener actividades organizadas que te obliguen a administrar tu tiempo y hacer algo todos los días.
+
+Establece reuniones periódicas con tu tutorx, asiste a seminarios o incluso actividades extracurriculares relacionadas con deporte o música, ellas pueden ayudarte a mantener un horario regular. Pone atención. Hay unos "debería" que te pueden inmovilizar y que pueden hacerte sentir tan culpable e indigno que dejas de progresar. Decirte a ti mismo que deberías tener un gran tema, que deberías terminar en X años, que deberías trabajar 4, 8 o 12 horas al día NO es útil para la mayoría de las personas. Se realista sobre lo que puedes lograr y trata de concentrarse en darte retroalimentación positiva para aquellas **tareas que si completas**, en lugar de una retroalimentación negativa para las tareas que no completas.
+
+Establecer metas diarias, semanales y mensuales es una buena idea. Esto funciona incluso mejor si usas un **"sistema de amigos"** en el que tú y otrx estudiante se reúnen a intervalos regulares para revisar sus progresos.
+
+`r knitr::asis_output("\U0001F601")` <span style="color:purple">Trata de encontrar personas con las que trabajar: investigar es mucho más fácil si tienes a alguien con quien intercambiar ideas y darte retroalimentación.</span>
