@@ -1,6 +1,8 @@
 investigación
 quieres-investigar
 qué-hacer
+qué-leer
+mantente-motivadx
 manual-de-tesis
 comunicación
 acta
@@ -13,6 +15,3 @@ el-outline
 gestor-de-referencias
 uso-de-la-ia
 evaluación
-qué-leer
-mantente-motivado
-mantente-motivadx
