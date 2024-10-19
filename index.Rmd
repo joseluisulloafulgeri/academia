@@ -6,7 +6,7 @@ site: bookdown::bookdown_site
 
 # Preámbulo {-}
 
-Esta plataforma fue creada para servir de guía a mis estudiantes de tesis y a todxs aquellxs interesadxs en hacer investigación.
+Esta plataforma fue creada para servir de guía a mis estudiantes de tesis, colaboradorxs y a todxs aquellxs interesadxs en hacer investigación.
 
 ```{r, echo=FALSE, out.width='70%', fig.align='center', fig.cap=NULL}
 knitr::include_graphics('images/investigacion.jpg')
