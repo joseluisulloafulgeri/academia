@@ -1,4 +1,4 @@
-# Manual de trabajo
+# Organización
 
 Este manual busca guiarte, como estudiante para tu trabajo de tesis o como colaboradorx para alguna investigación que emprendamos juntxs. He implementado este método porque me ha servido ser super organizado. Y me ha sido útil tener una comunicación super fluida con las personas que trabajo. Si estas haciendo tu tesis ten en cuenta que este proceso involucra a **unx tutorx** y a **ti, como estudiante**. Para que desarrolles bien tu tesis es necesario que crees una **relación saludable e interactiva** con tu tutorx.
 
@@ -39,8 +39,8 @@ Cada vez que tengamos una reunión lo primero que hago es revisar la última act
 
 En el acta debe estar presente:
 
-- <p style="color:blue">**Qué se hizo en la última reunión**.</p>
-- <p style="color:blue">**Cuáles eran las tareas a trabajar**.</p>
+- <p style="color:blue">**De qué se habló en la última reunión**.</p>
+- <p style="color:blue">**Cuáles son las tareas a trabajar**.</p>
 
 El acta no sólo me sirve a mí. Te sirve a ti para saber en qué deberías enfocar tus energías durante el trabajo de la semana. Cuando nos juntemos en reuniones es imperativo que tomes notas. Eso te sirve para hacer el acta.
 
@@ -81,22 +81,7 @@ En general en un acta también se puede describir cuando será la **próxima reu
 Dentro de las actas puedes incluir **links** (al material que vamos a tener en el Drive, ver más abajo).
 Esto es ideal porque evita que nos llenemos con documentos en los emails y cuando tengamos que ir a mirar el material con un click podemos llegar rápidamente a ellos.
 
-Para poner un link debes:
-
-- <p style="color:green">**Copiar el link de interés**.</p>
-- <p style="color:green">**Escribir la palabra donde pegarás el link (ej: aquí)**.</p>
-- <p style="color:green">**Seleccionar la palabra y aprieta Ctrl + K**.</p>
-- <p style="color:green">**Pegar el link en el cuadro de diálogo que se abre**.</p>
-
-No dudes en **repetir** esto en cada una de las actas cuantas veces sea necesario (por ejemplo, si haces referencia al mismo material o la misma carpeta). Las palabras que tienen asociados links en general quedan coloreadas en azul.
-
-## Investigar
-
-La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles. 
-
-Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir - a través de un análisis de datos - una masa amorfa de información (datos crudos) en algo que tenga **sentido**. Esto significa describir e interpretar esos resultados. Es decir, el objetivo final de una investigación científica es convertir los **datos** que recolectamos en información que nos sirva para **comprender** algo que pasa en el mundo y que nos interesa entender. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Para que nos sirve el conocimiento? Nos puede servir para entender cómo funciona algo (ej: un mecanismo) y para aplicarlo en cosas importantes de nuestra vida (ej: una terapia).
-
-Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**. Además, será muy útil cuando tengas que hacer la presentación de tu tesis.
+No dudes en **repetir los links** en cada acta. Puede parecer redundante, pero facilita las cosas al final. Por ejemplo, a través de varias reuniones vamos a estar revisando el mismo material (que seguramente estará en una carpeta del Drive).
 
 ## Drive
 

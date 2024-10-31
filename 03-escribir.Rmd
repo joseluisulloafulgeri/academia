@@ -4,46 +4,18 @@ Durante una investigación **la escritura será algo primordial**. Ojo, el traba
 
 Escribir es un proceso complejo dónde uno necesita organizar y estructurar ideas. Siempre debes pensar en el **mensaje** que quieres transmitir. Además, - y esto es bastante difícil en general - debes **abstraerte de lo que sabes**. Debes escribir pensando en lo que **otra persona** va a leer y va a entender de lo que estás escribiendo. Una buena técnica para saber si algo está bien escrito es leerlo en voz alta. Si algo te hace ruido, revísalo. 
 
-En general el trabajo de escritura se hará vía documentos Word de Google (Google Doc). Y se realizará de la siguiente manera: 
+## La pregunta guía
 
-- Cada documento que tu crees debe llevar un **nombre**. Por ejemplo, **anteproyecto_v1**.
-- Una vez que trabajes en el documento me avisas por correo para que yo haga una revisión.
-- Voy a hacer comentarios en forma de "sugerencias". Es decir, son cambios que tu puedes o no aceptar. Si tienes dudas sobre los cambios lo podemos discutir (puedes mandarme un correo para hacerme la consulta o lo podemos conversar en una reunión). Una vez que yo termine de revisar y hacer mis comentarios te avisaré  (vía email).
-- Cuando vayas a ver el documento, antes de hacer nada debes crear una **copia** de este documento. Mira este <a href="https://www.youtube.com/watch?v=I9QD49xBPS0" target="_blank">video</a>. Si la versión que yo trabajé es la v1, entonces debes crear la v2 (y así sucesivamente). El nombre del archivo quedará como **anteproyecto_v2**.
-- Una vez que termines de trabajar en el documento debes avisarme (vía email) para que yo lo revisé. Y así sucesivamente.
+La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles. 
 
-`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**¿Por qué es importante que haya distintas versiones?:** Porque de esa forma puedes ir fijándote qué cosas comúnenmente deben ser corregidas. Además, pueden haber cosas que en el momento actual no te sirven, pero que se podrían usar en el futuro.</span>
+Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir - a través de un análisis de datos - una masa amorfa de información (datos crudos) en algo que tenga **sentido**. Esto significa describir e interpretar esos resultados. Es decir, el objetivo final de una investigación científica es convertir los **datos** que recolectamos en información que nos sirva para **comprender** algo que pasa en el mundo y que nos interesa entender. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Para que nos sirve el conocimiento? Nos puede servir para entender cómo funciona algo (ej: un mecanismo) y para aplicarlo en cosas importantes de nuestra vida (ej: una terapia).
 
-Es importante que para todos los archivos que trabajes le pongas **nombres informativos**. Y si hay varias iteraciones entonces debes ponerle un **número de versión**. Evita los **acentos** en los nombres de los archivos y los documentos (a los computadores no les gusta). Por último, puedes agregar o no un guión bajo (_). Esto ayuda a que un nombre sea mas leíble. Es más fácil leer anteproyecto_v1 que anteproyectov1.
-
-## Resúmenes
-
-Para escribir debes leer. **Pero no te confíes de tu memoria**. Tienes que ser estratégicx acerca de como extraes la información que necesitas. Por ello debes buscar una manera de hacer **resúmenes** que sean **útiles**. Un buen resumen **no es una copia de todos los detalles de un artículo**. Un resumen toma lo **esencial** de un artículo. Y la **extensión** que le des a un resúmen depende de un **objetivo** que debes definir de antemano.
-
-Existen varios **tipos** de resúmenes dependiendo del objetivo específico que buscas al escribirlos. La información que se incluye y la extensión del resumen varían según el propósito. Algunos ejemplos de tipos de resúmenes son:
-
-- <span style="color:red">**Resumen básico:**</span> En este resumen haces una descripción general del contenido del artículo, incluyendo los objetivos, metodología y resultados principales.
-
-- <span style="color:red">**Resumen metodológico:**</span> Además de lo anterior, detallas los métodos. Si el estudio presentado en el artículo es parecido o se relaciona en algo con tu proyecto te permite comprender como se podrían hacer algunos análisis.
-
-- <span style="color:red">**Resumen con enfoque teórico:**</span> Es un resumen que puede usarse para ir hilando la descripción de tu marco téorico. No requiere que des muchos detalles. En general, apunta a algo bien específico. Incluye un análisis y evaluación del artículo, considerando sus fortalezas, limitaciones y contribución al campo de estudio. Requiere un pensamiento profundo. Pero, es más breve que los otros resúmenes.
-
-La **extensión** del resumen depende de un objetivo particular.
-Imagina que estoy escribiendo el marco teórico sobre los efectos de las condiciones sociales de las personas en ciertas funciones cognitivas. Leí un paper ("Socioeconomic status and self–other processing: socioeconomic status predicts interference in the automatic imitation task" de Farwaha & Obhi 2020, míralo <a href="https://pubmed.ncbi.nlm.nih.gov/32130430/" target="_blank">acá</a>) que reporta que el estatus socioeconómico podría hacer que las personas perciban las acciones de los demás de distintas forma. Un resumen muy breve de alrededor de 20 palabras captura la idea teórica central que quiero transmitir:
-
-- *Personas con alto estatus socioeconómico son menos susceptibles a las acciones de otros que las personas con bajo estatus socioeconómico.*
-
-Dependiendo de lo que quiera transmitir basta con eso. Por otro lado, si quiero enfatizar este estudio por alguna razón (por ejemplo podría utilizar la misma metodología para medir la respuesta a las acciones de otros) podría hacer un resumen más extenso de 100-200 palabras que permite incluir detalles adicionales importantes, como la metodología y los análisis específicos. 
-
-- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el desempeño de personas con alto y bajo estatus socioeconómico. En la tarea de imitación automática los participantes deben responder a números presentados en la pantalla de un computador. Al mismo tiempo que responden al número observan incidentalmente el movimiento congruente o incongruente de una mano. La diferencia en los tiempos de reacción (o errores) entre respuestas congruentes e incongruentes (efecto de congruencia) es un índice de procesamiento yo/otro e indica la capacidad para inhibir una respuesta de imitación. Así, un valor más bajo en el efecto de congruencia indica que las acciones de un participante son menos afectadas por las acciones que uno observa. En este estudio se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
-
-La cantidad de detalle dependerá de si cierta información ya se ha mencionado previamente en el documento. Fíjate que en el resumen previo trato de explicar en detalle el paradigma experimental. Si quiero usar el resumen para agregarlo en un documento dónde **ya explique** este paradigma en alguna parte del documento, entonces este resumen podría ser mas corto (~ 100 palabras):
-
-- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el efecto de congruencia entre personas con alto y bajo estatus socioeconómico. Se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia, es decir, fueron menos afectadas por las acciones que observaron en el computador. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
-
-`r knitr::asis_output("\U0001F4A1")` <span style="color:green">Recuerda, al escribir el resumen de un artículo de investigación es fundamental considerar el propósito de ese resumen para determinar qué tipo de resumen es más apropiado y cuánto detalle incluir. El objetivo es capturar la esencia del estudio de manera concisa y efectiva.</span>
+Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**. Además, será muy útil cuando tengas que hacer la presentación de tu tesis.
 
 ## El outline
+
+El outline es una de las herramientas más poderosa que tendrás jamás. Antes de ponerte a escribir **cualquier cosa** piensa en hacer un **outline**. 
+
 Un outline (o esquema) es una especie de lista de ideas, una estructura organizada que detalla los puntos principales y las ideas secundarias de un documento antes de que se escriba un texto completo. Sirve como un mapa que guía el proceso de escritura, asegurando que todas las partes necesarias del tema estén cubiertas de manera lógica y coherente. 
 
 Un outline es importante por varias razones:
@@ -91,7 +63,48 @@ El outline de este texto podría ser el siguiente:
    - Importancia de considerar las emociones en el diseño de políticas y productos
    - Uso de las emociones en la comunicación y movilización política
 
-`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Antes de ponerte a escribir cualquier cosa** piensa en hacer tu **outline**. Teniendo clara tu idea general y teniendo claro como cada una de las ideas específicas que quieres transmitir se conectan, será mucho mas fácil para ti escribir después.</span>
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Antes de ponerte a escribir cualquier cosa** piensa en hacer un **outline**. Teniendo clara tu *idea general* y teniendo claro como cada una de las ideas específicas que quieres transmitir *se conectan*, será mucho mas fácil para ti escribir después.</span>
+
+## Google docs
+
+En general el trabajo de escritura se hará vía documentos Word de Google (Google Doc). Y se realizará de la siguiente manera: 
+
+- Cada documento que tu crees debe llevar un **nombre**. Por ejemplo, **anteproyecto_v1**.
+- Una vez que trabajes en el documento me avisas por correo para que yo haga una revisión.
+- Voy a hacer comentarios en forma de "sugerencias". Es decir, son cambios que tu puedes o no aceptar. Si tienes dudas sobre los cambios lo podemos discutir (puedes mandarme un correo para hacerme la consulta o lo podemos conversar en una reunión). Una vez que yo termine de revisar y hacer mis comentarios te avisaré  (vía email).
+- Cuando vayas a ver el documento, antes de hacer nada debes crear una **copia** de este documento. Mira este <a href="https://www.youtube.com/watch?v=I9QD49xBPS0" target="_blank">video</a>. Si la versión que yo trabajé es la v1, entonces debes crear la v2 (y así sucesivamente). El nombre del archivo quedará como **anteproyecto_v2**.
+- Una vez que termines de trabajar en el documento debes avisarme (vía email) para que yo lo revisé. Y así sucesivamente.
+
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**¿Por qué es importante que haya distintas versiones?:** Porque de esa forma puedes ir fijándote qué cosas comúnenmente deben ser corregidas. Además, pueden haber cosas que en el momento actual no te sirven, pero que se podrían usar en el futuro.</span>
+
+Es importante que para todos los archivos que trabajes le pongas **nombres informativos**. Y si hay varias iteraciones entonces debes ponerle un **número de versión**. Evita los **acentos** en los nombres de los archivos y los documentos (a los computadores no les gusta). Por último, puedes agregar o no un guión bajo (_). Esto ayuda a que un nombre sea mas leíble. Es más fácil leer anteproyecto_v1 que anteproyectov1.
+
+## Resúmenes
+
+Para escribir debes leer. **Pero no te confíes de tu memoria**. Tienes que ser estratégicx acerca de como extraes la información que necesitas. Por ello debes buscar una manera de hacer **resúmenes** que sean **útiles**. Un buen resumen **no es una copia de todos los detalles de un artículo**. Un resumen toma lo **esencial** de un artículo. Y la **extensión** que le des a un resúmen depende de un **objetivo** que debes definir de antemano.
+
+Existen varios **tipos** de resúmenes dependiendo del objetivo específico que buscas al escribirlos. La información que se incluye y la extensión del resumen varían según el propósito. Algunos ejemplos de tipos de resúmenes son:
+
+- <span style="color:red">**Resumen básico:**</span> En este resumen haces una descripción general del contenido del artículo, incluyendo los objetivos, metodología y resultados principales.
+
+- <span style="color:red">**Resumen metodológico:**</span> Además de lo anterior, detallas los métodos. Si el estudio presentado en el artículo es parecido o se relaciona en algo con tu proyecto te permite comprender como se podrían hacer algunos análisis.
+
+- <span style="color:red">**Resumen con enfoque teórico:**</span> Es un resumen que puede usarse para ir hilando la descripción de tu marco téorico. No requiere que des muchos detalles. En general, apunta a algo bien específico. Incluye un análisis y evaluación del artículo, considerando sus fortalezas, limitaciones y contribución al campo de estudio. Requiere un pensamiento profundo. Pero, es más breve que los otros resúmenes.
+
+La **extensión** del resumen depende de un objetivo particular.
+Imagina que estoy escribiendo el marco teórico sobre los efectos de las condiciones sociales de las personas en ciertas funciones cognitivas. Leí un paper ("Socioeconomic status and self–other processing: socioeconomic status predicts interference in the automatic imitation task" de Farwaha & Obhi 2020, míralo <a href="https://pubmed.ncbi.nlm.nih.gov/32130430/" target="_blank">acá</a>) que reporta que el estatus socioeconómico podría hacer que las personas perciban las acciones de los demás de distintas forma. Un resumen muy breve de alrededor de 20 palabras captura la idea teórica central que quiero transmitir:
+
+- *Personas con alto estatus socioeconómico son menos susceptibles a las acciones de otros que las personas con bajo estatus socioeconómico.*
+
+Dependiendo de lo que quiera transmitir basta con eso. Por otro lado, si quiero enfatizar este estudio por alguna razón (por ejemplo podría utilizar la misma metodología para medir la respuesta a las acciones de otros) podría hacer un resumen más extenso de 100-200 palabras que permite incluir detalles adicionales importantes, como la metodología y los análisis específicos. 
+
+- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el desempeño de personas con alto y bajo estatus socioeconómico. En la tarea de imitación automática los participantes deben responder a números presentados en la pantalla de un computador. Al mismo tiempo que responden al número observan incidentalmente el movimiento congruente o incongruente de una mano. La diferencia en los tiempos de reacción (o errores) entre respuestas congruentes e incongruentes (efecto de congruencia) es un índice de procesamiento yo/otro e indica la capacidad para inhibir una respuesta de imitación. Así, un valor más bajo en el efecto de congruencia indica que las acciones de un participante son menos afectadas por las acciones que uno observa. En este estudio se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
+
+La cantidad de detalle dependerá de si cierta información ya se ha mencionado previamente en el documento. Fíjate que en el resumen previo trato de explicar en detalle el paradigma experimental. Si quiero usar el resumen para agregarlo en un documento dónde **ya explique** este paradigma en alguna parte del documento, entonces este resumen podría ser mas corto (~ 100 palabras):
+
+- *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el efecto de congruencia entre personas con alto y bajo estatus socioeconómico. Se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia, es decir, fueron menos afectadas por las acciones que observaron en el computador. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
+
+`r knitr::asis_output("\U0001F4A1")` <span style="color:green">Recuerda, al escribir el resumen de un artículo de investigación es fundamental considerar el propósito de ese resumen para determinar qué tipo de resumen es más apropiado y cuánto detalle incluir. El objetivo es capturar la esencia del estudio de manera concisa y efectiva.</span>
 
 ## Gestor de referencias
 
