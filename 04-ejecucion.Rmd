@@ -1,4 +1,4 @@
-# Experimentar
+# Ejecución
 
 Antes que realices tu exprimento es buena idea (más que eso en realidad, es imprescindible) que verifiques que todo antes bien. Si no lo haces corres el riesgo que termines de hacer tu estudio con 100 participantes y que al final no puedas usar estos datos 
 
@@ -6,14 +6,14 @@ Antes que realices tu exprimento es buena idea (más que eso en realidad, es imp
 
 El pilotaje es un proceso esencial en la investigación experimental, pues permite *detectar y corregir posibles errores* antes de llevar a cabo el experimento real. Este proceso se desarrolla en varias dimensiones, que abarcan desde la configuración y prueba de los equipos hasta el ensayo del propio experimento con una pequeña muestra de personas.
 
-- <span style="color:red">**1. Puesta a punto (o "Pilotaje de equipos")**.</span>
+<span style="color:red;"><strong>**1. Puesta a punto (o "Pilotaje de equipos")**</strong>.</span>
 Antes del pilotaje del experimento propiamente tal, es fundamental realizar una puesta a punto. Este paso implica *verificar* que los instrumentos y equipos necesarios para el estudio *funcionen correctamente*. Si el laboratorio en el que estas usa regularmente un tipo específico de equipo, la puesta a punto suele ser rápida; sin embargo, si es la primera vez que usas ese equipo o técnica, es crucial que te asegures de que todo esté en orden.
 
 Por ejemplo, si quieres medir cómo varía la **frecuencia cardíaca** según la **temperatura de una habitación**, necesitas probar que el sensor de frecuencia cardíaca registra los datos correctamente. Este proceso puede incluir realizar un registro en condiciones controladas (por ejemplo, una persona en una habitación fría y luego en una cálida) para verificar que la señal es consistente y se almacena de manera correcta para análisis posterior.
 
 En general, si es la primera vez que pones a punto un equipo puedes partir realizando un pequeño experimento que estás segurx va a resultar en un cambio muy obvio que te va a permitir poder discernir que el equipo funciona bien. En el ejemplo anterior, podrías probar que existen cambios en la frecuencia cardiaca cuando registras al alguien que viene de correr 10 minutos con respecto a cuando está en reposo. Si no hay cambios entre estas dos condiciones hay algo muy raro en el registro/equipo que debes corregir.
 
-- <span style="color:red">**2. Pilotaje pre-Experimento**.</span>
+<span style="color:red">**2. Pilotaje pre-experimento**.</span>
 Este tipo de pilotaje es el más cercano al experimento real, pero se lleva a cabo con una muestra muy pequeña, con el objetivo de identificar posibles problemas. Las principales dimensiones son:
 
 **Registro**: En esta etapa, verificas que todos los datos que necesitas se registren correctamente. Puedes realizar esta prueba contigo mismo o con una persona cercana que conozca el experimento. Lo esencial aquí es confirmar que todos los sistemas de registro (sensores, cuestionarios online, etc.) están capturando los datos de forma precisa. Por ejemplo, si estás registrando actividad cerebral, que el sistema para regitrar las señales funciona Ok; si estas haciendo un cuestionario online, que estas registrando fidedignamente las respuestas de los participantes, etc. Puede parecer muy parecido a la puesta en marcha, pero aquí usas específicamente tu paradigma experimental.
@@ -23,3 +23,24 @@ Este tipo de pilotaje es el más cercano al experimento real, pero se lleva a ca
 **Tarea**: Para esta dimensión, necesitas a alguien que no esté familiarizado con el experimento (naïve), pues se debe probar que las instrucciones sean claras y que la tarea funcione de acuerdo con el diseño del experimento. Esta prueba incluye evaluar si el experimento muestra el contenido correcto y en los tiempos establecidos. Así podrás asegurarte de que los participantes comprenderán la tarea y de que el flujo del experimento es el adecuado.
 
 En general, las dimensiones de Registro y Análisis pueden realizarse juntas (esto se lo puedes pedir a cualquier persona), mientras que el pilotaje de Tarea requiere de participantes que no sepan de que se trata tu experimento.
+
+## Ya tengo datos
+
+Antes que empieces a recolectar datos, ya sea para un proyecto de investigación o tu tesis, siempre debes tener claro cuál es tu objetivo: ¿Cuál es el mensaje que quieres transmitir? Esta claridad te permitirá definir bien los análisis y asegurar que tus resultados sean precisos y útiles. Tu recolección de datos puede cursar por tres grandes etapas:
+
+<span style="color:green">**1. Tengo 2 puntos:**.</span>
+A esta altura no se puede hacer un análisis formal. Sin embargo, puedes monitorear que tus datos se estén recolectando correctamente y que el equipo o el método funcionan sin errores.
+
+<span style="color:green">**2. Tengo 30 puntos:**.</span>
+Con una muestra parcial ya puedes empezar a identificar tendencias. Durante esta fase:
+
+- **Realiza un análisis preliminar completo**. Cuando preparaste tu anteproyecto, definiste tus análisis y durante el pilotaje creaste los scripts correspondientes. Es hora de ejecutar esos scripts y observar los primeros resultados.
+
+- **Esboza tus figuras principales**. Piensa en cómo quieres presentar los datos visualmente para responder tu pregunta de investigación. Este es un buen momento para diseñar la/s figura/s principal/es y verificar que comunican efectivamente el mensaje que planeas transmitir.
+
+- **Describe tu muestra**. Aunque aún no tengas todos los datos, puedes empezar a escribir una descripción preliminar de tu muestra (N, género, edad, etc.). Esto te ayudará a tener una estructura lista para los resultados finales.
+
+- **Define el texto base**. A medida que los resultados preliminares tomen forma, comienza a escribir borradores del texto que acompañarán los resultados.
+
+<span style="color:green">**3. Tengo todos mis datos:**.</span>
+Con la muestra completa sigue los mismos pasos que en la fase preliminar y realiza los análisis definitivos. Luego, bastará con reemplazar los valores numéricos con los datos finales. Este es el momento para consolidar tus figuras, pulir el texto y asegurarte de que el mensaje científico sea claro, coherente y bien respaldado por la evidencia.

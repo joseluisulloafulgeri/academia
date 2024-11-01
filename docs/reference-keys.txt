@@ -15,6 +15,7 @@ google-docs
 resúmenes
 gestor-de-referencias
 uso-de-la-ia
-experimentar
+ejecución
 pilotaje
+ya-tengo-datos
 evaluación
