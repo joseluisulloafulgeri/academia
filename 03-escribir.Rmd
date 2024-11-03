@@ -30,44 +30,84 @@ Un outline es importante por varias razones:
 
 Por ejemplo. Mira el siguiente texto sobre el rol de las emociones en la toma de decisiones.
 
-Las emociones juegan un papel crucial en la toma de decisiones, influyendo en nuestras elecciones de manera consciente e inconsciente. Las teorías tradicionales de la decisión, como la teoría de la utilidad esperada, asumían que las personas son agentes racionales que evalúan todas las opciones y eligen la que maximiza su beneficio esperado. Sin embargo, investigaciones más recientes en psicología y neurociencia han demostrado que las emociones son componentes esenciales de este proceso. Las emociones pueden actuar como señales rápidas e intuitivas que nos guían cuando enfrentamos decisiones complejas o bajo incertidumbre. Por ejemplo, el miedo puede alertarnos sobre peligros potenciales y llevarnos a optar por opciones más seguras, mientras que la alegría puede hacernos más propensos a tomar riesgos.
+*Las emociones son respuestas complejas que combinan experiencias subjetivas, reacciones fisiológicas y expresiones conductuales. Las emociones nos ayudan a adaptarnos, responder al entorno e influyen en una variedad de funciones.*
 
-Las emociones también pueden influir en la toma de decisiones a través del fenómeno conocido como el "sesgo afectivo". Este sesgo se refiere a la tendencia de las personas a permitir que sus estados emocionales actuales afecten sus juicios y elecciones. Por ejemplo, una persona que se siente feliz puede evaluar las opciones de manera más positiva y estar más dispuesta a asumir riesgos que alguien que se siente triste o ansioso. Este efecto puede observarse en una amplia gama de contextos, desde decisiones financieras hasta elecciones personales. Además, las emociones negativas pueden llevar a un pensamiento más analítico y cuidadoso, mientras que las emociones positivas pueden fomentar un pensamiento más creativo y expansivo.
+*Las emociones juegan un papel importante en la toma de decisiones. Las teorías tradicionales de la decisión, como la teoría de la utilidad esperada, asumían que las personas son agentes racionales que evalúan todas las opciones y eligen la que maximiza su beneficio esperado. Sin embargo, investigaciones más recientes en psicología y neurociencia han demostrado que las emociones actuan como señales rápidas e intuitivas que nos guían cuando enfrentamos decisiones complejas o bajo incertidumbre.*
 
-La influencia de las emociones en la toma de decisiones no se limita a las respuestas inmediatas. Las experiencias emocionales pasadas también pueden moldear nuestras preferencias y comportamientos futuros. Por ejemplo, una experiencia negativa significativa, como una pérdida financiera, puede crear una aversión duradera al riesgo. De manera similar, una experiencia positiva puede aumentar la disposición a repetir comportamientos que anteriormente resultaron en recompensas. Este aprendizaje emocional se almacena en la memoria y puede ser activado automáticamente cuando enfrentamos situaciones similares en el futuro, guiando nuestras decisiones de manera implícita.
+*Las emociones también pueden influir en la toma de decisiones a través de un fenómeno conocido como el “sesgo afectivo”. Este sesgo se refiere a la tendencia de las personas a permitir que sus estados emocionales actuales afecten sus juicios y elecciones. Las emociones positivas pueden fomentar un pensamiento más creativo y expansivo, mientras que las emociones negativas pueden llevar a un pensamiento más analítico y cuidadoso.*
 
-La interacción entre emociones y toma de decisiones también tiene implicaciones importantes para diversos campos, como la economía, la medicina y la política. En la economía, comprender cómo las emociones influyen en las decisiones financieras puede ayudar a diseñar mejores políticas y productos que consideren el bienestar emocional de las personas. En la medicina, los profesionales de la salud pueden utilizar el conocimiento sobre la toma de decisiones emocional para mejorar la comunicación con los pacientes y apoyarles en la toma de decisiones informadas sobre su salud. En la política, los líderes pueden utilizar las emociones para movilizar a los votantes y fomentar el apoyo a políticas específicas.
+*La influencia de las emociones en la toma de decisiones no se limita a las respuestas inmediatas. Las experiencias emocionales pasadas también pueden moldear nuestras preferencias y comportamientos futuros. Por ejemplo, una experiencia negativa significativa, como una pérdida financiera, puede crear una aversión duradera al riesgo. De manera similar, una experiencia positiva puede aumentar la disposición a repetir comportamientos que anteriormente resultaron en recompensas. Este aprendizaje emocional se almacena en la memoria y puede ser activado automáticamente cuando enfrentamos situaciones similares en el futuro, guiando nuestras decisiones de manera implícita.*
+
+*La interacción entre emociones y toma de decisiones tiene implicaciones importantes en diversos campos. En economía, comprender cómo las emociones influyen en las decisiones financieras puede ayudar a diseñar mejores políticas y productos que consideren el bienestar emocional de las personas. En medicina, los profesionales de la salud pueden utilizar el conocimiento sobre la toma de decisiones emocional para mejorar la comunicación con los pacientes y apoyarles en la toma de decisiones informadas sobre su salud. Por último, en política, los líderes pueden utilizar las emociones para movilizar a los votantes y fomentar el apoyo a políticas específicas.*
 
 Más allá del contenido fíjate que hay **ideas específicas** que se mencionan y se desarrollan en los párrafos. Esas ideas específicas constituyen el outline.
 El outline de este texto podría ser el siguiente:
 
-1. **Introducción a las emociones y toma de decisiones**
-   - Importancia de las emociones en la toma de decisiones
-   - Contraste con teorías tradicionales de decisión
-
-2. **Emociones como señales intuitivas**
-   - Ejemplos de emociones guiando decisiones
-   - Papel del miedo y la alegría en las elecciones
-
-3. **Sesgo afectivo**
-   - Definición y ejemplos del sesgo afectivo
-   - Influencia de estados emocionales en los juicios y elecciones
-   - Impacto de emociones negativas y positivas en el pensamiento
-
-4. **Experiencias emocionales pasadas**
-   - Cómo las emociones pasadas moldean las preferencias futuras
-   - Ejemplos de aversión al riesgo y disposición a repetir comportamientos
-
-5. **Implicaciones en diversos campos**
-   - Aplicaciones en economía, medicina y política
-   - Importancia de considerar las emociones en el diseño de políticas y productos
-   - Uso de las emociones en la comunicación y movilización política
+- Qué son las emociones
+- Toma de decisiones y la teoría tradicional 
+- Efecto de las emociones en la toma de decisiones
+- Cómo influyen las emociones en la toma de decisiones
+- Influencia a corto plazo (sesgo afectivo)
+- Influencia a largo plazo
+- Implicaciones 
 
 `r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Antes de ponerte a escribir cualquier cosa** piensa en hacer un **outline**. Teniendo clara tu *idea general* y teniendo claro como cada una de las ideas específicas que quieres transmitir *se conectan*, será mucho mas fácil para ti escribir después.</span>
 
+## El outline inverso
+
+Un **outline inverso** significa armar un outline después que ya has escrito. Permite planificar y revisar textos a través de la elaboración de un esquema o estructura de lo que ya está escrito (en lugar de hacer un esquema antes de que escribas). Básicamente, revisas el texto y tomas nota de la idea principal de cada sección, párrafo o apartado, creando un “mapa” o esquema de su contenido. Este proceso permite identificar si el texto sigue una estructura lógica y es coherente.
+
+El outline inverso es útil para:
+
+- **Revisar la coherencia y cohesión**: Permite ver de manera objetiva si las ideas fluyen de forma lógica y si el desarrollo es claro.
+
+- **Detectar redundancias o temas ausentes**: Al analizar la estructura real del texto, es más fácil identificar información repetida o temas que faltan.
+
+- **Optimizar el orden de las ideas**: Al visualizar el contenido en forma de esquema, es más fácil reordenar secciones o párrafos para mejorar la progresión y claridad.
+
+- **Evaluar el enfoque**: Ayuda a confirmar si cada sección o párrafo contribuye a los objetivos y argumentos centrales del documento.
+
+Para un **manuscrito académico**, como un artículo o tesis, el outline inverso es especialmente valioso en la etapa de revisión. Ayuda a:
+
+- **Verificar la alineación con el objetivo de investigación**: Permite confirmar que cada sección, desde la introducción hasta la discusión, contribuye directamente a la pregunta o hipótesis central.
+
+- **Asegurar una estructura lógica en la argumentación**: En un paper, el outline inverso puede mostrar si los resultados y las discusiones se conectan bien con la literatura previa y si la interpretación de los resultados sigue un orden lógico.
+
+- **Refinar la organización de las ideas**: Por ejemplo, en una tesis, que suele ser extensa y compleja, el outline inverso ayuda a dividir el contenido en bloques manejables y a reorganizar partes que podrían ser más efectivas en otra posición.
+
+- **Facilitar la edición y la precisión**: Una vez hecho el outline, es más fácil trabajar en cada sección para mejorar la claridad, eliminar información innecesaria y asegurarse de que los argumentos sean precisos y concisos.
+
+*Cuando haces un outline inverso?*
+Típicamente cuando ya has escrito mucho (has tomado notado de ciertas ideas, has desarrollado resumenes de los papers que has leído, etc) y quieres revisar si lo que has escrito tiene un hilo conductor.
+
+Imagina que escribiste el siguiente texto:
+
+*La interacción entre emociones y toma de decisiones tiene implicaciones importantes en diversos campos. En economía, comprender cómo las emociones influyen en las decisiones financieras puede ayudar a diseñar mejores políticas y productos que consideren el bienestar emocional de las personas. En medicina, los profesionales de la salud pueden utilizar el conocimiento sobre la toma de decisiones emocional para mejorar la comunicación con los pacientes y apoyarles en la toma de decisiones informadas sobre su salud. Por último, en política, los líderes pueden utilizar las emociones para movilizar a los votantes y fomentar el apoyo a políticas específicas.*
+
+*Las emociones pueden influir en la toma de decisiones a través de un fenómeno conocido como el “sesgo afectivo”. Este sesgo se refiere a la tendencia de las personas a permitir que sus estados emocionales actuales afecten sus juicios y elecciones. Las emociones positivas pueden fomentar un pensamiento más creativo y expansivo, mientras que las emociones negativas pueden llevar a un pensamiento más analítico y cuidadoso.*
+
+*Las emociones son respuestas complejas que combinan experiencias subjetivas, reacciones fisiológicas y expresiones conductuales. Las emociones nos ayudan a adaptarnos, responder al entorno e influyen en una variedad de funciones, entre ellas la toma de decisiones.*
+
+*Las emociones juegan un papel importante en la toma de decisiones. Las teorías tradicionales de la decisión, como la teoría de la utilidad esperada, asumían que las personas son agentes racionales que evalúan todas las opciones y eligen la que maximiza su beneficio esperado.*
+
+*Investigaciones recientes en psicología y neurociencia han demostrado que las emociones actuan como señales rápidas e intuitivas que nos guían cuando enfrentamos decisiones complejas o bajo incertidumbre.*
+
+*Las experiencias emocionales pasadas también pueden moldear nuestras preferencias y comportamientos futuros. Por ejemplo, una experiencia negativa significativa, como una pérdida financiera, puede crear una aversión duradera al riesgo. De manera similar, una experiencia positiva puede aumentar la disposición a repetir comportamientos que anteriormente resultaron en recompensas. Este aprendizaje emocional se almacena en la memoria y puede ser activado automáticamente cuando enfrentamos situaciones similares en el futuro, guiando nuestras decisiones de manera implícita.*
+
+El outline inverso de este texto podría ser el siguiente:
+
+- Implicaciones de la influencia de las emociones en la toma de decisiones 
+- Influencia de las emociones a corto plazo 
+- Qué son las emociones
+- Toma de decisiones y la teoría tradicional
+- Efecto de las emociones en la toma de decisiones
+- Influencia de las emociones a largo plazo
+
+Haciendo esto te das cuenta que hay un problema en la forma que organizaste tus ideas.
+
 ## Google docs
 
-En general el trabajo de escritura se hará vía documentos Word de Google (Google Doc). Y se realizará de la siguiente manera: 
+En general el trabajo de escritura se hará vía documentos word de Google (Google docs). Y se realizará de la siguiente manera: 
 
 - Cada documento que tu crees debe llevar un **nombre**. Por ejemplo, **anteproyecto_v1**.
 - Una vez que trabajes en el documento me avisas por correo para que yo haga una revisión.

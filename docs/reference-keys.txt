@@ -11,6 +11,7 @@ bibliografía
 escritura
 la-pregunta-guía
 el-outline
+el-outline-inverso
 google-docs
 resúmenes
 gestor-de-referencias

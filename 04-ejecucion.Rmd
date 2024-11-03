@@ -1,6 +1,6 @@
 # Ejecución
 
-Antes que realices tu exprimento es buena idea (más que eso en realidad, es imprescindible) que verifiques que todo antes bien. Si no lo haces corres el riesgo que termines de hacer tu estudio con 100 participantes y que al final no puedas usar estos datos 
+Antes que realices tu exprimento es imprescindible que verifiques que todo ande bien. Si no lo haces corres el riesgo que termines de recolectar datos de 50 o 100 participantes y que, eventualmente, no puedas hacer nada con ellos.
 
 ## Pilotaje
 
@@ -26,21 +26,21 @@ En general, las dimensiones de Registro y Análisis pueden realizarse juntas (es
 
 ## Ya tengo datos
 
-Antes que empieces a recolectar datos, ya sea para un proyecto de investigación o tu tesis, siempre debes tener claro cuál es tu objetivo: ¿Cuál es el mensaje que quieres transmitir? Esta claridad te permitirá definir bien los análisis y asegurar que tus resultados sean precisos y útiles. Tu recolección de datos puede cursar por tres grandes etapas:
+Antes que empieces a recolectar datos, ya sea para un proyecto de investigación o tu tesis, siempre debes tener claro cuál es tu objetivo: **¿Cuál es es la idea que quieres comunicar?** Esta claridad te permitirá definir bien los **análisis** y asegurar que tus resultados sean precisos y útiles. Tu recolección de datos puede cursar por tres grandes etapas:
 
-<span style="color:green">**1. Tengo 2 puntos:**.</span>
-A esta altura no se puede hacer un análisis formal. Sin embargo, puedes monitorear que tus datos se estén recolectando correctamente y que el equipo o el método funcionan sin errores.
+<span style="color:green">**1. Tengo 2 puntos:**</span>
+Cada punto puede ser el registro de un participante. A esta altura no se puede hacer un análisis formal. Sin embargo, puedes monitorear que tus datos se estén recolectando correctamente y que el equipo o el método funcionan sin errores.
 
-<span style="color:green">**2. Tengo 30 puntos:**.</span>
+<span style="color:green">**2. Tengo 30 puntos:**</span>
 Con una muestra parcial ya puedes empezar a identificar tendencias. Durante esta fase:
 
-- **Realiza un análisis preliminar completo**. Cuando preparaste tu anteproyecto, definiste tus análisis y durante el pilotaje creaste los scripts correspondientes. Es hora de ejecutar esos scripts y observar los primeros resultados.
+- **Realiza un análisis preliminar completo**: Cuando preparaste tu anteproyecto, definiste tus análisis y durante el pilotaje creaste los scripts correspondientes. Es hora de ejecutar esos scripts y observar los primeros resultados.
 
-- **Esboza tus figuras principales**. Piensa en cómo quieres presentar los datos visualmente para responder tu pregunta de investigación. Este es un buen momento para diseñar la/s figura/s principal/es y verificar que comunican efectivamente el mensaje que planeas transmitir.
+- **Esboza tus figuras principales**: Piensa en cómo quieres presentar los datos visualmente para responder tu pregunta de investigación. Este es un buen momento para diseñar la/s figura/s principal/es y verificar que comunican efectivamente el mensaje que planeas transmitir.
 
-- **Describe tu muestra**. Aunque aún no tengas todos los datos, puedes empezar a escribir una descripción preliminar de tu muestra (N, género, edad, etc.). Esto te ayudará a tener una estructura lista para los resultados finales.
+- **Describe tu muestra**: Aunque aún no tengas todos los datos, puedes empezar a escribir una descripción preliminar de tu muestra (N, género, edad, etc.). Esto te ayudará a tener una estructura lista para los resultados finales.
 
-- **Define el texto base**. A medida que los resultados preliminares tomen forma, comienza a escribir borradores del texto que acompañarán los resultados.
+- **Define el texto base**: A medida que los resultados preliminares tomen forma, comienza a escribir borradores del texto que acompañarán los resultados.
 
-<span style="color:green">**3. Tengo todos mis datos:**.</span>
+<span style="color:green">**3. Tengo todos mis datos:**</span>
 Con la muestra completa sigue los mismos pasos que en la fase preliminar y realiza los análisis definitivos. Luego, bastará con reemplazar los valores numéricos con los datos finales. Este es el momento para consolidar tus figuras, pulir el texto y asegurarte de que el mensaje científico sea claro, coherente y bien respaldado por la evidencia.
