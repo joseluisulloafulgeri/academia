@@ -19,4 +19,5 @@ uso-de-la-ia
 ejecución
 pilotaje
 ya-tengo-datos
+análisis-de-datos
 evaluación
