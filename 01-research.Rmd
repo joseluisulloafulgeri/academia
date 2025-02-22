@@ -17,7 +17,7 @@ Es útil tener una buena idea del **área** en la que deseas especializarte y pr
 
 `r knitr::asis_output("\U0001F631")` <span style="color:green">**Ejemplo:** ¿Por qué nos gusta ver películas de terror y dramas? </span>
 
-Si necesitas ideas mira <a href="https://joseluisulloafulgeri.github.io/website/research.html" target="_blank">aquí</a> y pregúntame.
+Si necesitas ideas mira <a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">aquí</a> y pregúntame.
 
 **Comunícate** con miembros de tu facultad y los estudiantes que ya se han licenciado. Cuéntales sobre ti y tus intereses. **Pregúntales** en qué proyectos de investigación están trabajando. Una buena forma de hacerlo es a través de email. Un buen tutorx está dispuestx a responder este tipo de consultas (aunque si está ocupadx es posible que se demore un poco en responder). Tu mejor opción es encontrar un par de personas en la facultad con los que te **interesaría trabajar**. De esa forma, si uno no funciona o está demasiado ocupadx para aceptar a unx nuevx estudiante, tienes una alternativa. También es importante que te sientas **cómodx** en ese nicho académico. Vale la pena que hables con algunxs **estudiantes** de postgrado para averiguar qué tutorxs son buenos y qué tipo de apoyo financiero y psicológico está disponible en tu lugar de estudio.
 
@@ -63,6 +63,12 @@ Para mantenerte **concentradx y motivadx** a menudo es útil tener actividades o
 
 Establece reuniones periódicas con tu tutorx, asiste a seminarios o incluso actividades extracurriculares relacionadas con deporte o música, ellas pueden ayudarte a mantener un horario regular. Pone atención. Hay unos "debería" que te pueden inmovilizar y que pueden hacerte sentir tan culpable e indignx que dejas de progresar. Decirte a ti mismx que deberías tener un gran tema, que deberías terminar en X años, que deberías trabajar 4, 8 o 12 horas al día NO es útil para la mayoría de las personas. Se realista sobre lo que puedes lograr y trata de concentrarse en darte retroalimentación positiva para aquellas **tareas que si completas**, en lugar de una retroalimentación negativa para las tareas que no completas.
 
-Establecer metas diarias, semanales y mensuales es una buena idea. Esto funciona incluso mejor si usas un **"sistema de amigos"** en el que tú y otrx estudiante se reúnen a intervalos regulares para revisar sus progresos.
+Establecer metas diarias, semanales y mensuales es una buena idea. Esto funciona incluso mejor si usas un **"sistema de contabilidad social" (social accountability)** en el que tú y otrx estudiante se reúnen a intervalos regulares para revisar sus progresos.
 
 `r knitr::asis_output("\U0001F601")` <span style="color:purple">Trata de encontrar personas con las que trabajar: investigar es mucho más fácil si tienes a alguien con quien intercambiar ideas y darte retroalimentación.</span>
+
+Cuando las cosas parecen inmanejables una buena táctica es dividir tu proyecto en partes más pequeñas. Pensando en un proyecto más global hacer un Magister antes de sumergirse en un Doctorado es generalmente una buena idea. Un Magister te brinda la oportunidad de aprender más sobre un área, hacer un proyecto de investigación más pequeño y establecer relaciones de trabajo con tu tutor o tutora y tus compañeros de estudio.
+
+La estrategia de "dividir y vencer" también funciona en el día a día. En lugar de escribir una tesis completa, concéntrate en el objetivo de escribir un capítulo, sección o esquema. En lugar de implementar un sistema grande, separa las piezas e implementa un módulo a la vez. Identifica las tareas que puedes realizar en una hora o menos y así podrás elaborar un horario diario realista. Si tienes dudas, no dejes que esas dudas te impidan lograr algo, piensa en el día a día. Recuerda que cada tarea que completas te acerca cada más al final.
+
+`r knitr::asis_output("\U0001F601")` <span style="color:purple">Piensa en el día a día. Incluso si no sientes que progresas, asegurate de haber aprendido algo.</span>
