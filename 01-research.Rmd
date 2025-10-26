@@ -11,25 +11,25 @@ Es útil tener una buena idea del **área** en la que deseas especializarte y pr
 
 `r knitr::asis_output("\U0001F4A1")` <span style="color:red">**Piensa:** ¿Hay algún tema particular que te interese investigar? ¿Tienes en mente alguna pregunta de investigación?</span>
 
-`r knitr::asis_output("\U0001F602")` <span style="color:green">**Ejemplo:** ¿Cómo afecta la experiencia emocional nuestra percepción del mundo? </span>
+`r knitr::asis_output("\U0001F602")` <span style="color:green">¿Cómo afecta la experiencia emocional nuestra percepción del mundo? </span>
 
-`r knitr::asis_output("\U0001F634")` <span style="color:green">**Ejemplo:** ¿Qué pasa en nuestro cerebro mientras dormimos? </span>
+`r knitr::asis_output("\U0001F634")` <span style="color:green">¿Qué pasa en nuestro cerebro mientras dormimos? </span>
 
-`r knitr::asis_output("\U0001F631")` <span style="color:green">**Ejemplo:** ¿Por qué nos gusta ver películas de terror y dramas? </span>
+`r knitr::asis_output("\U0001F631")` <span style="color:green">¿Por qué nos gusta ver películas de terror y dramas? </span>
 
-`r knitr::asis_output("\U0001F3CB")` <span style="color:green">**Ejemplo:** ¿Controlar mejor mis acciones (tener una buena respuesta de inhibición motora) mejora mi toma de decisiones?</span>
+`r knitr::asis_output("\U0001F3CB")` <span style="color:green">¿Controlar mejor mis acciones (tener una buena respuesta de inhibición motora) mejora mi toma de decisiones?</span>
 
-`r knitr::asis_output("\U0001F621")` <span style="color:green">**Ejemplo:** ¿Cómo se expresa la rabia en mi cuerpo?</span>
+`r knitr::asis_output("\U0001F621")` <span style="color:green">¿Cómo se expresa la rabia en mi cuerpo?</span>
 
-`r knitr::asis_output("\U0001F9E0")` <span style="color:green">**Ejemplo:** ¿Qué rol tiene la actividad eléctrica cerebral en la cognición humana?</span>
+`r knitr::asis_output("\U0001F9E0")` <span style="color:green">¿Qué rol tiene la actividad eléctrica cerebral en la cognición humana?</span>
 
-`r knitr::asis_output("\U0001F4AA")` <span style="color:green">**Ejemplo:** ¿Qué factores modulan y cuáles son las consecuencias de un buen control cognitivo?</span>
+`r knitr::asis_output("\U0001F4AA")` <span style="color:green">¿Qué factores modulan y cuáles son las consecuencias de un buen control cognitivo?</span>
 
-`r knitr::asis_output("\U0001F30C")` <span style="color:green">**Ejemplo:** ¿Qué nos dice sobre el funcionamiento del sistema nervioso la actividad cerebral de reposo (resting state)?</span>
+`r knitr::asis_output("\U0001F30C")` <span style="color:green">¿Qué nos dice sobre el funcionamiento del sistema nervioso la actividad cerebral de reposo (resting state)?</span>
 
-`r knitr::asis_output("\U0001F500")` <span style="color:green">**Ejemplo:** ¿Qué nos dice la actividad sincrónica de distintas partes del cerebro?</span>
+`r knitr::asis_output("\U0001F500")` <span style="color:green">¿Qué nos dice la actividad sincrónica de distintas partes del cerebro?</span>
 
-`r knitr::asis_output("\U0001F9E9")` <span style="color:green">**Ejemplo:** ¿Qué regiones y qué conexiones cerebrales involucra el control inhibitorio?</span>
+`r knitr::asis_output("\U0001F9E9")` <span style="color:green">¿Qué regiones y qué conexiones cerebrales involucra el control inhibitorio?</span>
 
 
 Si necesitas ideas mira <a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">aquí</a> y pregúntame.
