@@ -9,13 +9,28 @@ Típicamente tener un **grado** y luego un **postgrado** ayuda para acceder a al
 
 Es útil tener una buena idea del **área** en la que deseas especializarte y preferiblemente tener en mente un **par de preguntas de investigación** en particular en las que te gustaría trabajar. Busca libros y revistas en esa área y léelas para tener una idea de quién está haciendo qué y dónde. Aquí es donde lxs **tutorxs** entran en escena: los miembros de tu facultad deberían estar dispuestos a hablar con lxs estudiantes y ayudarles a que averigüen más sobre sus áreas de investigación y los programas de postgrado que existen. **Intenta involucrarte en una investigación**: pregunta a los profesores y asistentes si necesitan a alguien que trabaje en un proyecto en curso, o inicia tu propio proyecto de investigación independiente pidiéndole a un miembro de tu facultad que te oriente.
 
-`r knitr::asis_output("\U0001F4A1")` <span style="color:green">**Piensa:** ¿Hay algún tema particular que te interese investigar? ¿Tienes en mente alguna pregunta de investigación?</span>
+`r knitr::asis_output("\U0001F4A1")` <span style="color:red">**Piensa:** ¿Hay algún tema particular que te interese investigar? ¿Tienes en mente alguna pregunta de investigación?</span>
 
 `r knitr::asis_output("\U0001F602")` <span style="color:green">**Ejemplo:** ¿Cómo afecta la experiencia emocional nuestra percepción del mundo? </span>
 
 `r knitr::asis_output("\U0001F634")` <span style="color:green">**Ejemplo:** ¿Qué pasa en nuestro cerebro mientras dormimos? </span>
 
 `r knitr::asis_output("\U0001F631")` <span style="color:green">**Ejemplo:** ¿Por qué nos gusta ver películas de terror y dramas? </span>
+
+`r knitr::asis_output("\U0001F3CB")` <span style="color:green">**Ejemplo:** ¿Controlar mejor mis acciones (tener una buena respuesta de inhibición motora) mejora mi toma de decisiones?</span>
+
+`r knitr::asis_output("\U0001F621")` <span style="color:green">**Ejemplo:** ¿Cómo se expresa la rabia en mi cuerpo?</span>
+
+`r knitr::asis_output("\U0001F9E0")` <span style="color:green">**Ejemplo:** ¿Qué rol tiene la actividad eléctrica cerebral en la cognición humana?</span>
+
+`r knitr::asis_output("\U0001F4AA")` <span style="color:green">**Ejemplo:** ¿Qué factores modulan y cuáles son las consecuencias de un buen control cognitivo?</span>
+
+`r knitr::asis_output("\U0001F30C")` <span style="color:green">**Ejemplo:** ¿Qué nos dice sobre el funcionamiento del sistema nervioso la actividad cerebral de reposo (resting state)?</span>
+
+`r knitr::asis_output("\U0001F500")` <span style="color:green">**Ejemplo:** ¿Qué nos dice la actividad sincrónica de distintas partes del cerebro?</span>
+
+`r knitr::asis_output("\U0001F9E9")` <span style="color:green">**Ejemplo:** ¿Qué regiones y qué conexiones cerebrales involucra el control inhibitorio?</span>
+
 
 Si necesitas ideas mira <a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">aquí</a> y pregúntame.
 
