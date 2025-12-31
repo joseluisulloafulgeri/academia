@@ -2,15 +2,44 @@
 
 Durante una investigación **la escritura será algo primordial**. Ojo, el trabajo escrito toma una buena cantidad de **tiempo**. Por qué? Porque hay varias iteraciones dónde escribes, te hago sugerencias, realizas cambias, me lo mandas de vuelta, te hago nuevas sugerencias, y así sucesivamente.
 
-Escribir es un proceso complejo dónde uno necesita organizar y estructurar ideas. Siempre debes pensar en el **mensaje** que quieres transmitir. Además, - y esto es bastante difícil en general - debes **abstraerte de lo que sabes**. Debes escribir pensando en lo que **otra persona** va a leer y va a entender de lo que estás escribiendo. Una buena técnica para saber si algo está bien escrito es leerlo en voz alta. Si algo te hace ruido, revísalo. 
+Escribir es un proceso complejo dónde uno necesita organizar y estructurar ideas. Siempre debes pensar en el **mensaje** que quieres transmitir. Además, - y esto es bastante difícil en general - debes **abstraerte de lo que sabes**. Debes escribir pensando en lo que **otra persona** va a leer y va a entender de lo que estás escribiendo.
+
+Una buena técnica para saber si algo está bien escrito es leerlo en voz alta. Si algo te hace ruido, revísalo.
 
 ## La pregunta guía
 
-La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles. 
+La **pregunta de investigación** es lo más esencial de tu tesis, el resto son detalles.
+La mayoría de la veces que tengamos una reunión voy a partir preguntándote cuál es tu pregunta de investigación.
 
-Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir - a través de un análisis de datos - una masa amorfa de información (datos crudos) en algo que tenga **sentido**. Esto significa describir e interpretar esos resultados. Es decir, el objetivo final de una investigación científica es convertir los **datos** que recolectamos en información que nos sirva para **comprender** algo que pasa en el mundo y que nos interesa entender. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Para que nos sirve el conocimiento? Nos puede servir para entender cómo funciona algo (ej: un mecanismo) y para aplicarlo en cosas importantes de nuestra vida (ej: una terapia).
+Los datos son sólo eso, **datos**. Lo que hace unx investigadorx es convertir - a través de un análisis de datos - una masa amorfa de información (datos crudos) en algo que tenga **sentido**. Esto significa describir e interpretar esos resultados. 
 
-Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono. Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**. Además, será muy útil cuando tengas que hacer la presentación de tu tesis.
+El objetivo final de una investigación científica es convertir los **datos** que recolectamos en información que nos sirva para **comprender** algo que pasa en el mundo y que nos interesa entender. Los datos en sí no importan, lo que importa es lo que nosotrxs interpretemos. Y lo que nosotrxs interpretemos depende netamente de los antecedentes que tengamos. Por ello, es muy muy importante que te sumergas en tu tema y te vuelvas unx expertx en ello.
+
+Para que nos sirve el conocimiento? Nos puede servir para entender cómo funciona algo (ej: un mecanismo) y para aplicarlo en cosas importantes de nuestra vida (ej: una terapia).
+
+Siempre es bueno que te hagas una imagen mental de tu pregunta de investigación. Y para ello ayuda que te hagas un dibujo o un esquema de tu investigación: un mono.
+
+Hacer un mono es muy útil para plasmar y trabajar las preguntas de investigación. El **mono** puede tomar cualquier forma pero tiene que ayudarte a **transmitir una idea**. Además, será muy útil cuando tengas que hacer la presentación de tu tesis.
+
+Qué intuyes de los siguientes monos?
+
+```{r, echo=FALSE, out.width='30%', fig.align='center', fig.cap=NULL}
+knitr::include_graphics('images/paper_1_schema.jpg')
+```
+
+<p align="center">********</p>
+
+```{r, echo=FALSE, out.width='60%', fig.align='center', fig.cap=NULL}
+knitr::include_graphics('images/paper_2_schema.jpg')
+```
+
+<p align="center">********</p>
+
+```{r, echo=FALSE, out.width='70%', fig.align='center', fig.cap=NULL}
+knitr::include_graphics('images/paper_3_schema.jpg')
+```
+
+<p align="center">********</p>
 
 ## El outline
 
@@ -145,6 +174,8 @@ La cantidad de detalle dependerá de si cierta información ya se ha mencionado 
 - *Se ha propuesto que personas con alto estatus socioeconómico pueden ser menos sensibles a las acciones de otros. Se usó una tarea de imitación automática para comparar el efecto de congruencia entre personas con alto y bajo estatus socioeconómico. Se observó que las personas con alto (con respecto a bajo) estatus socioeconómico tienen un menor efecto de congruencia, es decir, fueron menos afectadas por las acciones que observaron en el computador. Estos resultados sugieren que las personas con alto (con respecto a bajo) estatus socioeconómico son menos susceptibles a las acciones de otros*.
 
 `r knitr::asis_output("\U0001F4A1")` <span style="color:green">Recuerda, al escribir el resumen de un artículo de investigación es fundamental considerar el propósito de ese resumen para determinar qué tipo de resumen es más apropiado y cuánto detalle incluir. El objetivo es capturar la esencia del estudio de manera concisa y efectiva.</span>
+
+`r knitr::asis_output("\U0001F98A")` <span style="color:red">Importante: Los resumenes se deben ubicar en un archivo de texto en la subcarpeta "Biblio". Por cada paper habrá un archivo de texto con el mismo nombre del paper y que incluirá un resumen del paper.</span>
 
 ## Gestor de referencias
 

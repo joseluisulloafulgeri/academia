@@ -1,26 +1,28 @@
 # Organización
 
-Este manual busca guiarte, como estudiante para tu trabajo de tesis o como colaboradorx para alguna investigación que emprendamos juntxs. He implementado este método porque me ha servido ser super organizado. Y me ha sido útil tener una comunicación super fluida con las personas que trabajo. Si estas haciendo tu tesis ten en cuenta que este proceso involucra a **unx tutorx** y a **ti, como estudiante**. Para que desarrolles bien tu tesis es necesario que crees una **relación saludable e interactiva** con tu tutorx.
+Este manual busca guiarte, como estudiante para tu trabajo de tesis o como colaboradorx para alguna investigación que emprendamos juntxs. He implementado este método porque me ha servido ser organizado. Y me ha sido útil tener una comunicación fluida con las personas que trabajo.
+
+Si estas haciendo tu tesis ten en cuenta que este proceso involucra a **unx tutorx** y a **ti, como estudiante**. Para que desarrolles bien tu tesis es necesario que crees una **relación saludable e interactiva** con tu tutorx.
 
 ## Comunicación
 
-Para cualquier actividad que realices conmigo pretendo que te **comuniques** de forma **muy fluida**. Esto es **esencial**. Sin comunicación cualquier trabajo se vuelve muy complicado.
+Para cualquier actividad que realices conmigo DEBES **comunicarte** de forma **muy fluida** conmigo. Esto es **esencial**. Sin comunicación cualquier trabajo se vuelve muy complicado.
 
-Para mí la comunicación vía **email** es algo super importante. Casi todo lo que hago esta organizado de alguna manera por mi email. Si no tienes mucha práctica o quieres saber como usar mejor el email, **pregúntame**.
+Para mí la comunicación vía **email** es super importante. Casi todo lo que hago esta organizado de alguna manera por mi email. Si no tienes mucha práctica o quieres saber como usar mejor el email, **pregúntame**.
 
 Algunas indicaciones sobre esto:
 
-- <span style="color:red">**Acusa recibo de mis emails**.</span> Es una buena práctica. Y es aún más relevante para los emails importantes (archivos, tareas, etc.). Si conoces a alguien que acusa sistemáticamente la recepción de sus emails (como yo) sabrás rápidamente cuando ha ocurrido un error en el envío de algun email. Si no recibes acuse mío de tu email probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
+- <span style="color:red">**Acusa recibo de mis emails**.</span> Es una buena práctica. Y es aún más relevante para los emails importantes (para coordinarse, para archivos, tareas, etc.). Yo acuso sistemáticamente la recepción de correos. Si envias un correo a alguien que acusa sistemáticamente la recepción de sus emails y no te ha respondido en ~ una semana entonces sabrás que ha ocurrido un problema. Si no recibes acuse mío de tu email probablemente no lo he recibido (pero considera también que no respondo de manera inmediata, ver abajo).
 
-- <span style="color:red">**Asegurate que me lleguen tus mensajes**.</span> Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces emails de otros servidores (como Outlook) se bloquean. Por eso, siempre pone en **copia** (en CC) mi otro email, **joulloa@utalca.cl**.
+- <span style="color:red">**Asegurate que me lleguen tus mensajes**.</span> Mi email de trabajo es **joseluisulloafulgeri@gmail.com** pero por alguna razón a veces Gmail bloquea emails de otros servidores (como Outlook). Por esto mismo siempre pone en **copia** (en CC) mi otro email, **joulloa@utalca.cl**.
 
-- <span style="color:red">**Copia a tu compañerx**.</span> En los emails siempre pon en **copia** a tu compañerx de trabajo o a tus colaboradorxs (si tienes). Aprende como mandar emails con copia <a href="https://www.youtube.com/watch?v=S_z-BecdxJM" target="_blank">aquí</a>. Esto permite que las otras personas que te acompañan en tu trabajo estén siempre al día con las cosas. La excepción es si quieres hablar algo personal conmigo.
+- <span style="color:red">**Copia a tu compañerx de trabajo**.</span> En los emails siempre pon en **copia** a tu compañerx de trabajo o a tus colaboradorxs (si tienes). Aprende como mandar emails con copia <a href="https://www.youtube.com/watch?v=S_z-BecdxJM" target="_blank">aquí</a>. Esto permite que las otras personas que te acompañan en tu trabajo estén siempre al día con las cosas. La excepción es si quieres hablar algo personal conmigo.
 
-- <span style="color:red">**El email no es mensajería instantánea**. </span> Es decir, no esperes que te responda automáticamente cuando me mandas un email. Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que me mandaste puedes re-mandar el email. No tiene nada de malo que me recuerdes. Al contrario, me ayuda. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo). Ojo que esto también se aplica a ti. No necesitas responder mis emails inmediatamente. Entiendo perfectamente que tengas otras actividades. De cualquier manera, trata de responder tus emails en un tiempo razonable.
+- <span style="color:red">**El email no es mensajería instantánea**. </span> Es decir, no esperes que te responda automáticamente cuando me mandas un email. Lo recomendable es que esperes una respuesta dentro de 3-5 días. Si no has recibido respuesta para algún email que me mandaste puedes re-mandar el email. No tiene nada de malo que me recuerdes. Al contrario, me ayuda. Dado este rango de espera es importante que **anticipes** tu trabajo y tus necesidades. No mandes un email de consulta a última hora (uno o dos días antes de algún plazo). Ojo que esto también funciona al revés. No necesitas responder mis emails inmediatamente. Entiendo perfectamente que tengas otras actividades. De cualquier manera, trata de responder tus emails en un tiempo razonable. En algunos casos hay situaciones relativamente más urgentes. En esos casos yo apuro mi respuesta. Espero lo mismo de parte tuya.
 
-- <span style="color:red">**Para tu proyecto inventale un nombre a tu proyecto**.</span> Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo (cuando tenga que buscarlo). Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el **sujeto** de cada email que me mandes podría estar escrito [Efecto de la música en las emociones]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador: [Efecto de la música en las emociones]. Sé tan creativx como quieras!
+- <span style="color:red">**Inventale un nombre a tu proyecto**.</span> Y úsalo consistentemente para que yo pueda encontrar fácilmente algún correo tuyo (cuando tenga que buscarlo). Es más fácil buscar emails cuando se usan palabras clave de forma consistente. Por ejemplo, en el **sujeto** de cada email que me mandes podría estar escrito [Efecto de la música en las emociones]. Si lo usas consistentemente cada vez que tenga que buscar un correo tuyo podré tipear en el buscador: [Efecto de la música en las emociones]. Sé tan creativx como quieras!
 
-- <span style="color:red">**Sé informativx**.</span> En la misma línea de lo anterior. Fíjate que el **nombre del proyecto** es algo fijo. Pero, además de esto es bueno que agreguen **información útil** en el **sujeto** del email que me permita ver de manera rápida y eficiente de que se trata tu mensaje.\
+- <span style="color:red">**Sé informativx**.</span> En la misma línea de lo anterior. Fíjate que el **nombre del proyecto** es algo fijo. Pero, además de esto es bueno que agregues **información útil** en el **sujeto** del email que me permita ver de manera rápida y eficiente de que se trata tu mensaje.\
 Por ejemplo:\
 **[Efecto de la música en las emociones] Acta 18/10/2021**\
 **[Efecto de la música en las emociones] Avances artículo 1**\
@@ -35,22 +37,27 @@ Lo que escribas debe ser informativo.
 
 El acta es **imprescindible** para hacer un seguimiento del trabajo en curso.
 
-Cada vez que tengamos una reunión lo primero que hago es revisar la última acta que me mandaste para saber en qué quedamos. El acta nos permite saber rápidamente en qué punto de tu tesis estás y cuáles son las que cosas que tendrías que haber trabajado durante la semana.
+Cada vez que tengamos una reunión lo primero que hago es revisar la última acta que me mandaste para saber en qué quedamos. El acta nos permite saber rápidamente (a ti y a mi) en qué punto de tu tesis estás y cuáles son las que cosas que tendrías que haber trabajado durante la semana.
 
 En el acta debe estar presente:
 
 - <p style="color:blue">**De qué se habló en la última reunión**.</p>
+- <p style="color:blue">**Ideas relevantes que se discutieron durante la reunión**.</p>
 - <p style="color:blue">**Cuáles son las tareas a trabajar**.</p>
 
-El acta no sólo me sirve a mí. Te sirve a ti para saber en qué deberías enfocar tus energías durante el trabajo de la semana. Cuando nos juntemos en reuniones es imperativo que tomes notas. Eso te sirve para hacer el acta.
+El acta no sólo me sirve a mí. Te sirve a ti para saber en qué deberías enfocar tus energías durante el trabajo de la semana.
+
+`r knitr::asis_output("\U0001F4A1")` <span style="color:red">Cuando nos juntemos en reuniones es imperativo **que tomes notas**. Es esto lo que vas a poner en el acta. La mente es frágil. No esperes que termine la reunión para empezar a anotar. </span>
 
 Es importante que escribas tu acta en el **cuerpo del correo**. No como un archivo adjunto o como un link a otro sitio web o Drive. Ya que uso mi correo para organizarme me gusta poder acceder rápidamente a las actas para visualizarlas. Esto me permite buscar cosas mediante palabras clave dentro del correo. Por otro lado esto también minimiza que hayan archivos adjuntos. El acta en su mayor parte es sólo texto. 
 
 Los 2 aspectos importantes de una acta son:
 
-- <span style="color:red">**Puntos discutidos en la reunión**.</span> Enumera y describe brevemente cada tema o asunto que se discutió durante la reunión (avances, tareas completadas, tareas incompletas, problemas, etc). Si se nos ocurre alguna idea, algún detalle del estudio o si hay algo que incorporar, **este es el lugar para anotar eso**.
+- <span style="color:red">**Puntos discutidos en la reunión**.</span> Enumera y describe brevemente cada tema o asunto que se discutió durante la reunión (avances, tareas completadas, tareas incompletas, problemas, etc). 
 
-- <span style="color:red">**Tareas pendientes / Plan de trabajo para la semana**.</span> Enumera y describe **acciones específicas** que debes realizar antes de la próxima reunión para poder avanzar en el desarrollo de tu tesis. Indica claramente quién es el responsable de cada tarea y la fecha límite para su finalización. Si hay algo que yo deba hacer (enviarte un archivo, programar algo, etc), **recuérdamelo** en el acta. Usa el siguiente formato: [Responsable] [Fecha límite].
+`r knitr::asis_output("\U0001F92F")` <span style="color:red">Si se nos ocurre alguna idea, algún detalle del estudio o si hay algo que incorporar, **este es el lugar para anotar eso**. </span>
+
+- <span style="color:red">**Tareas pendientes / Plan de trabajo para la semana**.</span> Enumera y describe **acciones específicas** que debes realizar antes de la próxima reunión para poder avanzar en el desarrollo de tu tesis. Indica claramente quién es el responsable de cada tarea y la fecha límite para su finalización (típicamente en un plazo de semana, pero puede variar). Si hay algo que yo deba hacer (enviarte un archivo, programar algo, etc), **recuérdamelo** en el acta. Usa el siguiente formato: [Responsable] [Fecha límite].
 
 Además:
 
@@ -59,7 +66,7 @@ Además:
 Revisa abajo un **ejemplo** de acta.
 
 **1. Puntos discutidos en la reunión:**\
-Se comenta el paper de Truman et al. 2012. En este paper se describe un método para hacer un análisis de los tiempos de reacción. Se tomaron notas que se encuentran aquí: [LINK al Drive]
+Se comenta el paper de Truman et al. 2012. En este paper se describe un método para hacer un análisis de los tiempos de reacción.
 
 **2. Tareas pendientes / Plan de trabajo para la semana**\
 -- Leer el paper de Zibra et al. 2013 [Matías] [Lunes 03/05]\
@@ -78,27 +85,28 @@ Puedes usar lo siguiente como plantilla.
 
 En general en un acta también se puede describir cuando será la **próxima reunión**. Ya que para el módulo de Trabajo de Memoria y Memoria vamos a tener un **horario fijo** esto no es tan importante. Pero si nos juntamos en un **horario alternativo** es buena idea recordarmelo en el acta.
 
-Dentro de las actas puedes incluir **links** (al material que vamos a tener en el Drive, ver más abajo).
-Esto es ideal porque evita que nos llenemos con documentos en los emails y cuando tengamos que ir a mirar el material con un click podemos llegar rápidamente a ellos.
+Dentro de las actas incluye **links** (al material que vamos a tener en el Drive, ver más abajo) para que yo pueda acceder rápidamente a algo que necesite mi atención. Esto es ideal porque evita que nos llenemos con documentos en los emails. La idea es que cuando tengamos que mirar algún material sólo con un click podemos llegar rápidamente a ellos.
 
 No dudes en **repetir los links** en cada acta. Puede parecer redundante, pero facilita las cosas al final. Por ejemplo, a través de varias reuniones vamos a estar revisando el mismo material (que seguramente estará en una carpeta del Drive).
+
+Si alguna tarea quedó pendiente y no la pudiste terminar **re-escribela de nuevo en el acta**. Es normal que haya cosas que no se puedan hacer dentro de una semana.
 
 ## Drive
 
 Debes crear un Drive y debes darme acceso para editar. Las carpetas que **deben** estar presentes en tu Drive son al menos las siguientes:
 
-- <p style="color:blue">**Anteproyecto**.</p>
-- <p style="color:blue">**Biblio (o Bibliografia)**.</p>
-- <p style="color:blue">**Estudio (o Experimento)**.</p>
-- <p style="color:blue">**Resumenes**.</p>
+- <p style="color:blue">**Anteproyecto**</p>
+- <p style="color:blue">**Biblio**</p>
+- <p style="color:blue">**Estudio**</p>
 
 Aparte de estas carpetas básicas puedes ir agregando carpetas adicionales para aspectos particulares que vayan surgiendo durante la tesis.
 
-## Bibliografía
+## Biblio
 
-En la carpeta Biblio deben estar los artículos que vas a incluir en tu estudio.
+En la carpeta Biblio DEBEN estar los artículos que vas a ir leyendo y que será incluidas en tu tesis.
 
 Para nombrar los archivos debes seguir las siguientes indicaciones:
 
-- <span style="color:red">**Lo mínimo:**</span> Para nombrar los artículos lo mínimo es el año y el primer autor (ej: Fisher_2021 o 2021_Fisher). La ventaja de anotar primero el año es que los archivos se ordenan automáticamente de forma cronológica.
-- <span style="color:red">**Palabras clave:**</span> Debes poner por lo menos un par de palabras clave (ej: 2021_Fisher_2021_decision_emotion_EEG).
+- <span style="color:red">**Usa el guión:**</span> Usa un guión para separar palabras (ej: xxx_xxx_xxx).
+- <span style="color:red">**Lo mínimo:**</span> Para nombrar los artículos lo mínimo es el año y el primer autor, **en este orden** (ej: 2021_Fisher). La ventaja de anotar primero el año es que los archivos se ordenan automáticamente de forma cronológica.
+- <span style="color:red">**Palabras clave:**</span> Agrega al menos un par de palabras clave (ej: 2021_Fisher_decision_emotions).
